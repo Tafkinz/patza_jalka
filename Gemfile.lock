@@ -135,7 +135,7 @@ DEPENDENCIES
   devise
   haml
   jquery-rails
-  pg (= 0.21.0)
+  pg (~> 0.21.0)
   rails (= 3.2.22.5)
   sass-rails (~> 3.2.2)
   uglifier (>= 1.0.3)
