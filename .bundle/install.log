@@ -1,0 +1,1364 @@
+# Logfile created on 2018-05-31 15:53:06 +0300 by logger.rb/56438
+I, [2018-05-31T15:53:06.557201 #97629]  INFO -- : 0:  rake (12.3.1) from /Library/Ruby/Gems/2.3.0/specifications/rake-12.3.1.gemspec
+I, [2018-05-31T15:53:06.722472 #97629]  INFO -- : 0:  concurrent-ruby (1.0.5) from /Library/Ruby/Gems/2.3.0/specifications/concurrent-ruby-1.0.5.gemspec
+I, [2018-05-31T15:53:06.861293 #97629]  INFO -- : 0:  i18n (0.9.5) from /Library/Ruby/Gems/2.3.0/specifications/i18n-0.9.5.gemspec
+I, [2018-05-31T15:53:06.954370 #97629]  INFO -- : 0:  multi_json (1.13.1) from /Library/Ruby/Gems/2.3.0/specifications/multi_json-1.13.1.gemspec
+I, [2018-05-31T15:53:07.607260 #97629]  INFO -- : 0:  activesupport (3.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activesupport-3.2.0.gemspec
+I, [2018-05-31T15:53:07.708770 #97629]  INFO -- : 0:  builder (3.0.4) from /Library/Ruby/Gems/2.3.0/specifications/builder-3.0.4.gemspec
+I, [2018-05-31T15:53:08.101101 #97629]  INFO -- : 0:  activemodel (3.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activemodel-3.2.0.gemspec
+I, [2018-05-31T15:53:08.371704 #97629]  INFO -- : 0:  erubis (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/erubis-2.7.0.gemspec
+I, [2018-05-31T15:53:08.491745 #97629]  INFO -- : 0:  journey (1.0.4) from /Library/Ruby/Gems/2.3.0/specifications/journey-1.0.4.gemspec
+I, [2018-05-31T15:53:08.893791 #97629]  INFO -- : 0:  rack (1.4.7) from /Library/Ruby/Gems/2.3.0/specifications/rack-1.4.7.gemspec
+I, [2018-05-31T15:53:09.004791 #97629]  INFO -- : 0:  rack-cache (1.7.2) from /Library/Ruby/Gems/2.3.0/specifications/rack-cache-1.7.2.gemspec
+I, [2018-05-31T15:53:09.105206 #97629]  INFO -- : 0:  rack-test (0.6.3) from /Library/Ruby/Gems/2.3.0/specifications/rack-test-0.6.3.gemspec
+I, [2018-05-31T15:53:09.182121 #97629]  INFO -- : 0:  hike (1.2.3) from /Library/Ruby/Gems/2.3.0/specifications/hike-1.2.3.gemspec
+I, [2018-05-31T15:53:09.328796 #97629]  INFO -- : 0:  tilt (1.4.1) from /Library/Ruby/Gems/2.3.0/specifications/tilt-1.4.1.gemspec
+I, [2018-05-31T15:53:09.642134 #97629]  INFO -- : 0:  sprockets (2.1.4) from /Library/Ruby/Gems/2.3.0/specifications/sprockets-2.1.4.gemspec
+I, [2018-05-31T15:53:10.211944 #97629]  INFO -- : 0:  actionpack (3.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionpack-3.2.0.gemspec
+I, [2018-05-31T15:53:10.212370 #97629]  INFO -- : 0:  mime-types (1.25.1) from /Library/Ruby/Gems/2.3.0/specifications/mime-types-1.25.1.gemspec
+I, [2018-05-31T15:53:10.294885 #97629]  INFO -- : 0:  polyglot (0.3.5) from /Library/Ruby/Gems/2.3.0/specifications/polyglot-0.3.5.gemspec
+I, [2018-05-31T15:53:10.634727 #97629]  INFO -- : 0:  treetop (1.4.15) from /Library/Ruby/Gems/2.3.0/specifications/treetop-1.4.15.gemspec
+I, [2018-05-31T15:53:11.038438 #97629]  INFO -- : 0:  mail (2.4.4) from /Library/Ruby/Gems/2.3.0/specifications/mail-2.4.4.gemspec
+I, [2018-05-31T15:53:11.336150 #97629]  INFO -- : 0:  actionmailer (3.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionmailer-3.2.0.gemspec
+I, [2018-05-31T15:53:11.500051 #97629]  INFO -- : 0:  arel (3.0.3) from /Library/Ruby/Gems/2.3.0/specifications/arel-3.0.3.gemspec
+I, [2018-05-31T15:53:11.954318 #97629]  INFO -- : 0:  tzinfo (0.3.54) from /Library/Ruby/Gems/2.3.0/specifications/tzinfo-0.3.54.gemspec
+I, [2018-05-31T15:53:12.460995 #97629]  INFO -- : 0:  activerecord (3.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-3.2.0.gemspec
+I, [2018-05-31T15:53:12.609846 #97629]  INFO -- : 0:  activerecord-oracle_enhanced-adapter (1.4.3) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-oracle_enhanced-adapter-1.4.3.gemspec
+I, [2018-05-31T15:53:12.914344 #97629]  INFO -- : 0:  activeresource (3.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activeresource-3.2.0.gemspec
+I, [2018-05-31T15:53:14.418096 #97629]  INFO -- : 0:  bcrypt (3.1.12) from /Library/Ruby/Gems/2.3.0/specifications/bcrypt-3.1.12.gemspec
+I, [2018-05-31T15:53:20.144495 #97629]  INFO -- : 0:  bcrypt-ruby (3.1.5) from /Library/Ruby/Gems/2.3.0/specifications/bcrypt-ruby-3.1.5.gemspec
+I, [2018-05-31T15:53:20.144831 #97629]  INFO -- : 0:  bundler (1.5.1) from /Library/Ruby/Gems/2.3.0/specifications/bundler-1.5.1.gemspec
+I, [2018-05-31T15:53:21.867601 #97629]  INFO -- : 0:  coffee-script-source (1.12.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-source-1.12.2.gemspec
+I, [2018-05-31T15:53:21.971840 #97629]  INFO -- : 0:  execjs (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/execjs-2.7.0.gemspec
+I, [2018-05-31T15:53:22.051348 #97629]  INFO -- : 0:  coffee-script (2.4.1) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-2.4.1.gemspec
+I, [2018-05-31T15:53:22.135541 #97629]  INFO -- : 0:  rack-ssl (1.3.4) from /Library/Ruby/Gems/2.3.0/specifications/rack-ssl-1.3.4.gemspec
+I, [2018-05-31T15:53:23.957518 #97629]  INFO -- : 0:  json (1.8.6) from /Library/Ruby/Gems/2.3.0/specifications/json-1.8.6.gemspec
+I, [2018-05-31T15:53:24.226596 #97629]  INFO -- : 0:  rdoc (3.12.2) from /Library/Ruby/Gems/2.3.0/specifications/rdoc-3.12.2.gemspec
+I, [2018-05-31T15:53:24.563470 #97629]  INFO -- : 0:  thor (0.14.6) from /Library/Ruby/Gems/2.3.0/specifications/thor-0.14.6.gemspec
+I, [2018-05-31T15:53:25.880054 #97629]  INFO -- : 0:  railties (3.2.0) from /Library/Ruby/Gems/2.3.0/specifications/railties-3.2.0.gemspec
+I, [2018-05-31T15:53:25.964488 #97629]  INFO -- : 0:  coffee-rails (3.2.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-rails-3.2.2.gemspec
+I, [2018-05-31T15:53:26.053559 #97629]  INFO -- : 0:  orm_adapter (0.5.0) from /Library/Ruby/Gems/2.3.0/specifications/orm_adapter-0.5.0.gemspec
+I, [2018-05-31T15:53:26.166535 #97629]  INFO -- : 0:  warden (1.2.7) from /Library/Ruby/Gems/2.3.0/specifications/warden-1.2.7.gemspec
+I, [2018-05-31T15:53:26.593045 #97629]  INFO -- : 0:  devise (2.2.8) from /Library/Ruby/Gems/2.3.0/specifications/devise-2.2.8.gemspec
+I, [2018-05-31T15:54:03.130734 #97629]  INFO -- : 0:  ffi (1.9.23) from /Library/Ruby/Gems/2.3.0/specifications/ffi-1.9.23.gemspec
+I, [2018-05-31T15:54:03.285050 #97629]  INFO -- : 0:  temple (0.8.0) from /Library/Ruby/Gems/2.3.0/specifications/temple-0.8.0.gemspec
+I, [2018-05-31T15:54:03.420141 #97629]  INFO -- : 0:  haml (5.0.4) from /Library/Ruby/Gems/2.3.0/specifications/haml-5.0.4.gemspec
+I, [2018-05-31T15:54:03.562184 #97629]  INFO -- : 0:  jquery-rails (3.1.5) from /Library/Ruby/Gems/2.3.0/specifications/jquery-rails-3.1.5.gemspec
+E, [2018-05-31T15:54:05.214307 #97629] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    current directory: /Library/Ruby/Gems/2.3.0/gems/pg-1.0.0/ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20180531-97629-1nn0e94.rb extconf.rb 
+checking for pg_config... yes
+Using config values from /usr/local/bin/pg_config
+checking for libpq-fe.h... yes
+checking for libpq/libpq-fs.h... yes
+checking for pg_config_manual.h... yes
+checking for PQconnectdb() in -lpq... no
+checking for PQconnectdb() in -llibpq... no
+checking for PQconnectdb() in -lms/libpq... no
+Can't find the PostgreSQL client library (libpq)
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/$(RUBY_BASE_NAME)
+	--with-pg
+	--without-pg
+	--enable-windows-cross
+	--disable-windows-cross
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+	--with-pqlib
+	--without-pqlib
+	--with-libpqlib
+	--without-libpqlib
+	--with-ms/libpqlib
+	--without-ms/libpqlib
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /Library/Ruby/Gems/2.3.0/extensions/universal-darwin-17/2.3.0/pg-1.0.0/mkmf.log
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Library/Ruby/Gems/2.3.0/gems/pg-1.0.0 for inspection.
+Results logged to /Library/Ruby/Gems/2.3.0/extensions/universal-darwin-17/2.3.0/pg-1.0.0/gem_make.out
+
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:92:in `run'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:48:in `block in build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/tempfile.rb:295:in `open'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:31:in `build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:164:in `block (2 levels) in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `chdir'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `block in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `synchronize'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:201:in `block in build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:748:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:297:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:336:in `update'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/usr/local/bin/bundle:22:in `load'  \n/usr/local/bin/bundle:22:in `<main>'
+I, [2018-05-31T15:55:41.609032 #4642]  INFO -- : 0:  rake (12.3.1) from /Library/Ruby/Gems/2.3.0/specifications/rake-12.3.1.gemspec
+I, [2018-05-31T15:55:41.609445 #4642]  INFO -- : 0:  concurrent-ruby (1.0.5) from /Library/Ruby/Gems/2.3.0/specifications/concurrent-ruby-1.0.5.gemspec
+I, [2018-05-31T15:55:41.609861 #4642]  INFO -- : 0:  i18n (0.9.5) from /Library/Ruby/Gems/2.3.0/specifications/i18n-0.9.5.gemspec
+I, [2018-05-31T15:55:41.610138 #4642]  INFO -- : 0:  multi_json (1.13.1) from /Library/Ruby/Gems/2.3.0/specifications/multi_json-1.13.1.gemspec
+I, [2018-05-31T15:55:41.610400 #4642]  INFO -- : 0:  activesupport (3.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activesupport-3.2.0.gemspec
+I, [2018-05-31T15:55:41.610654 #4642]  INFO -- : 0:  builder (3.0.4) from /Library/Ruby/Gems/2.3.0/specifications/builder-3.0.4.gemspec
+I, [2018-05-31T15:55:41.610942 #4642]  INFO -- : 0:  activemodel (3.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activemodel-3.2.0.gemspec
+I, [2018-05-31T15:55:41.611182 #4642]  INFO -- : 0:  erubis (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/erubis-2.7.0.gemspec
+I, [2018-05-31T15:55:41.611449 #4642]  INFO -- : 0:  journey (1.0.4) from /Library/Ruby/Gems/2.3.0/specifications/journey-1.0.4.gemspec
+I, [2018-05-31T15:55:41.611718 #4642]  INFO -- : 0:  rack (1.4.7) from /Library/Ruby/Gems/2.3.0/specifications/rack-1.4.7.gemspec
+I, [2018-05-31T15:55:41.611976 #4642]  INFO -- : 0:  rack-cache (1.7.2) from /Library/Ruby/Gems/2.3.0/specifications/rack-cache-1.7.2.gemspec
+I, [2018-05-31T15:55:41.612231 #4642]  INFO -- : 0:  rack-test (0.6.3) from /Library/Ruby/Gems/2.3.0/specifications/rack-test-0.6.3.gemspec
+I, [2018-05-31T15:55:41.612510 #4642]  INFO -- : 0:  hike (1.2.3) from /Library/Ruby/Gems/2.3.0/specifications/hike-1.2.3.gemspec
+I, [2018-05-31T15:55:41.612750 #4642]  INFO -- : 0:  tilt (1.4.1) from /Library/Ruby/Gems/2.3.0/specifications/tilt-1.4.1.gemspec
+I, [2018-05-31T15:55:41.613017 #4642]  INFO -- : 0:  sprockets (2.1.4) from /Library/Ruby/Gems/2.3.0/specifications/sprockets-2.1.4.gemspec
+I, [2018-05-31T15:55:41.613289 #4642]  INFO -- : 0:  actionpack (3.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionpack-3.2.0.gemspec
+I, [2018-05-31T15:55:41.613551 #4642]  INFO -- : 0:  mime-types (1.25.1) from /Library/Ruby/Gems/2.3.0/specifications/mime-types-1.25.1.gemspec
+I, [2018-05-31T15:55:41.613829 #4642]  INFO -- : 0:  polyglot (0.3.5) from /Library/Ruby/Gems/2.3.0/specifications/polyglot-0.3.5.gemspec
+I, [2018-05-31T15:55:41.614103 #4642]  INFO -- : 0:  treetop (1.4.15) from /Library/Ruby/Gems/2.3.0/specifications/treetop-1.4.15.gemspec
+I, [2018-05-31T15:55:41.614359 #4642]  INFO -- : 0:  mail (2.4.4) from /Library/Ruby/Gems/2.3.0/specifications/mail-2.4.4.gemspec
+I, [2018-05-31T15:55:41.614645 #4642]  INFO -- : 0:  actionmailer (3.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionmailer-3.2.0.gemspec
+I, [2018-05-31T15:55:41.614881 #4642]  INFO -- : 0:  arel (3.0.3) from /Library/Ruby/Gems/2.3.0/specifications/arel-3.0.3.gemspec
+I, [2018-05-31T15:55:41.615126 #4642]  INFO -- : 0:  tzinfo (0.3.54) from /Library/Ruby/Gems/2.3.0/specifications/tzinfo-0.3.54.gemspec
+I, [2018-05-31T15:55:41.615356 #4642]  INFO -- : 0:  activerecord (3.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-3.2.0.gemspec
+I, [2018-05-31T15:55:41.615581 #4642]  INFO -- : 0:  activerecord-oracle_enhanced-adapter (1.4.3) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-oracle_enhanced-adapter-1.4.3.gemspec
+I, [2018-05-31T15:55:41.615797 #4642]  INFO -- : 0:  activeresource (3.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activeresource-3.2.0.gemspec
+I, [2018-05-31T15:55:41.616012 #4642]  INFO -- : 0:  bcrypt (3.1.12) from /Library/Ruby/Gems/2.3.0/specifications/bcrypt-3.1.12.gemspec
+I, [2018-05-31T15:55:41.616250 #4642]  INFO -- : 0:  bcrypt-ruby (3.1.5) from /Library/Ruby/Gems/2.3.0/specifications/bcrypt-ruby-3.1.5.gemspec
+I, [2018-05-31T15:55:41.616472 #4642]  INFO -- : 0:  bundler (1.5.1) from /Library/Ruby/Gems/2.3.0/specifications/bundler-1.5.1.gemspec
+I, [2018-05-31T15:55:41.616705 #4642]  INFO -- : 0:  coffee-script-source (1.12.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-source-1.12.2.gemspec
+I, [2018-05-31T15:55:41.616943 #4642]  INFO -- : 0:  execjs (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/execjs-2.7.0.gemspec
+I, [2018-05-31T15:55:41.617206 #4642]  INFO -- : 0:  coffee-script (2.4.1) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-2.4.1.gemspec
+I, [2018-05-31T15:55:41.617517 #4642]  INFO -- : 0:  rack-ssl (1.3.4) from /Library/Ruby/Gems/2.3.0/specifications/rack-ssl-1.3.4.gemspec
+I, [2018-05-31T15:55:41.617796 #4642]  INFO -- : 0:  json (1.8.6) from /Library/Ruby/Gems/2.3.0/specifications/json-1.8.6.gemspec
+I, [2018-05-31T15:55:41.618031 #4642]  INFO -- : 0:  rdoc (3.12.2) from /Library/Ruby/Gems/2.3.0/specifications/rdoc-3.12.2.gemspec
+I, [2018-05-31T15:55:41.618268 #4642]  INFO -- : 0:  thor (0.14.6) from /Library/Ruby/Gems/2.3.0/specifications/thor-0.14.6.gemspec
+I, [2018-05-31T15:55:41.618476 #4642]  INFO -- : 0:  railties (3.2.0) from /Library/Ruby/Gems/2.3.0/specifications/railties-3.2.0.gemspec
+I, [2018-05-31T15:55:41.618711 #4642]  INFO -- : 0:  coffee-rails (3.2.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-rails-3.2.2.gemspec
+I, [2018-05-31T15:55:41.618945 #4642]  INFO -- : 0:  orm_adapter (0.5.0) from /Library/Ruby/Gems/2.3.0/specifications/orm_adapter-0.5.0.gemspec
+I, [2018-05-31T15:55:41.619195 #4642]  INFO -- : 0:  warden (1.2.7) from /Library/Ruby/Gems/2.3.0/specifications/warden-1.2.7.gemspec
+I, [2018-05-31T15:55:41.619419 #4642]  INFO -- : 0:  devise (2.2.8) from /Library/Ruby/Gems/2.3.0/specifications/devise-2.2.8.gemspec
+I, [2018-05-31T15:55:41.619652 #4642]  INFO -- : 0:  ffi (1.9.23) from /Library/Ruby/Gems/2.3.0/specifications/ffi-1.9.23.gemspec
+I, [2018-05-31T15:55:41.619898 #4642]  INFO -- : 0:  temple (0.8.0) from /Library/Ruby/Gems/2.3.0/specifications/temple-0.8.0.gemspec
+I, [2018-05-31T15:55:41.620154 #4642]  INFO -- : 0:  haml (5.0.4) from /Library/Ruby/Gems/2.3.0/specifications/haml-5.0.4.gemspec
+I, [2018-05-31T15:55:41.620426 #4642]  INFO -- : 0:  jquery-rails (3.1.5) from /Library/Ruby/Gems/2.3.0/specifications/jquery-rails-3.1.5.gemspec
+E, [2018-05-31T15:55:43.027735 #4642] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    current directory: /Library/Ruby/Gems/2.3.0/gems/pg-1.0.0/ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20180531-4642-1rwrqye.rb extconf.rb 
+checking for pg_config... yes
+Using config values from /usr/local/bin/pg_config
+checking for libpq-fe.h... yes
+checking for libpq/libpq-fs.h... yes
+checking for pg_config_manual.h... yes
+checking for PQconnectdb() in -lpq... no
+checking for PQconnectdb() in -llibpq... no
+checking for PQconnectdb() in -lms/libpq... no
+Can't find the PostgreSQL client library (libpq)
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/$(RUBY_BASE_NAME)
+	--with-pg
+	--without-pg
+	--enable-windows-cross
+	--disable-windows-cross
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+	--with-pqlib
+	--without-pqlib
+	--with-libpqlib
+	--without-libpqlib
+	--with-ms/libpqlib
+	--without-ms/libpqlib
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /Library/Ruby/Gems/2.3.0/extensions/universal-darwin-17/2.3.0/pg-1.0.0/mkmf.log
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Library/Ruby/Gems/2.3.0/gems/pg-1.0.0 for inspection.
+Results logged to /Library/Ruby/Gems/2.3.0/extensions/universal-darwin-17/2.3.0/pg-1.0.0/gem_make.out
+
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:92:in `run'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:48:in `block in build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/tempfile.rb:295:in `open'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:31:in `build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:164:in `block (2 levels) in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `chdir'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `block in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `synchronize'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:201:in `block in build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:748:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:297:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:336:in `update'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/usr/local/bin/bundle:22:in `load'  \n/usr/local/bin/bundle:22:in `<main>'
+I, [2018-05-31T15:56:10.120816 #4737]  INFO -- : 0:  rake (12.3.1) from /Library/Ruby/Gems/2.3.0/specifications/rake-12.3.1.gemspec
+I, [2018-05-31T15:56:10.121134 #4737]  INFO -- : 0:  concurrent-ruby (1.0.5) from /Library/Ruby/Gems/2.3.0/specifications/concurrent-ruby-1.0.5.gemspec
+I, [2018-05-31T15:56:10.121392 #4737]  INFO -- : 0:  i18n (0.9.5) from /Library/Ruby/Gems/2.3.0/specifications/i18n-0.9.5.gemspec
+I, [2018-05-31T15:56:10.121642 #4737]  INFO -- : 0:  multi_json (1.13.1) from /Library/Ruby/Gems/2.3.0/specifications/multi_json-1.13.1.gemspec
+I, [2018-05-31T15:56:10.405553 #4737]  INFO -- : 0:  activesupport (3.2.14) from /Library/Ruby/Gems/2.3.0/specifications/activesupport-3.2.14.gemspec
+I, [2018-05-31T15:56:10.405918 #4737]  INFO -- : 0:  builder (3.0.4) from /Library/Ruby/Gems/2.3.0/specifications/builder-3.0.4.gemspec
+I, [2018-05-31T15:56:10.511110 #4737]  INFO -- : 0:  activemodel (3.2.14) from /Library/Ruby/Gems/2.3.0/specifications/activemodel-3.2.14.gemspec
+I, [2018-05-31T15:56:10.511390 #4737]  INFO -- : 0:  erubis (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/erubis-2.7.0.gemspec
+I, [2018-05-31T15:56:10.511644 #4737]  INFO -- : 0:  journey (1.0.4) from /Library/Ruby/Gems/2.3.0/specifications/journey-1.0.4.gemspec
+I, [2018-05-31T15:56:10.511892 #4737]  INFO -- : 0:  rack (1.4.7) from /Library/Ruby/Gems/2.3.0/specifications/rack-1.4.7.gemspec
+I, [2018-05-31T15:56:10.512163 #4737]  INFO -- : 0:  rack-cache (1.7.2) from /Library/Ruby/Gems/2.3.0/specifications/rack-cache-1.7.2.gemspec
+I, [2018-05-31T15:56:10.512437 #4737]  INFO -- : 0:  rack-test (0.6.3) from /Library/Ruby/Gems/2.3.0/specifications/rack-test-0.6.3.gemspec
+I, [2018-05-31T15:56:10.512683 #4737]  INFO -- : 0:  hike (1.2.3) from /Library/Ruby/Gems/2.3.0/specifications/hike-1.2.3.gemspec
+I, [2018-05-31T15:56:10.512923 #4737]  INFO -- : 0:  tilt (1.4.1) from /Library/Ruby/Gems/2.3.0/specifications/tilt-1.4.1.gemspec
+I, [2018-05-31T15:56:10.638907 #4737]  INFO -- : 0:  sprockets (2.2.3) from /Library/Ruby/Gems/2.3.0/specifications/sprockets-2.2.3.gemspec
+I, [2018-05-31T15:56:10.897328 #4737]  INFO -- : 0:  actionpack (3.2.14) from /Library/Ruby/Gems/2.3.0/specifications/actionpack-3.2.14.gemspec
+I, [2018-05-31T15:56:10.897828 #4737]  INFO -- : 0:  mime-types (1.25.1) from /Library/Ruby/Gems/2.3.0/specifications/mime-types-1.25.1.gemspec
+I, [2018-05-31T15:56:10.898166 #4737]  INFO -- : 0:  polyglot (0.3.5) from /Library/Ruby/Gems/2.3.0/specifications/polyglot-0.3.5.gemspec
+I, [2018-05-31T15:56:10.898415 #4737]  INFO -- : 0:  treetop (1.4.15) from /Library/Ruby/Gems/2.3.0/specifications/treetop-1.4.15.gemspec
+I, [2018-05-31T15:56:11.162174 #4737]  INFO -- : 0:  mail (2.5.5) from /Library/Ruby/Gems/2.3.0/specifications/mail-2.5.5.gemspec
+I, [2018-05-31T15:56:11.271862 #4737]  INFO -- : 0:  actionmailer (3.2.14) from /Library/Ruby/Gems/2.3.0/specifications/actionmailer-3.2.14.gemspec
+I, [2018-05-31T15:56:11.745653 #4737]  INFO -- : 0:  activerecord (3.2.14) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-3.2.14.gemspec
+I, [2018-05-31T15:56:11.746164 #4737]  INFO -- : 0:  activerecord-oracle_enhanced-adapter (1.4.3) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-oracle_enhanced-adapter-1.4.3.gemspec
+I, [2018-05-31T15:56:11.864592 #4737]  INFO -- : 0:  activeresource (3.2.14) from /Library/Ruby/Gems/2.3.0/specifications/activeresource-3.2.14.gemspec
+I, [2018-05-31T15:56:11.864982 #4737]  INFO -- : 0:  bcrypt (3.1.12) from /Library/Ruby/Gems/2.3.0/specifications/bcrypt-3.1.12.gemspec
+I, [2018-05-31T15:56:11.865216 #4737]  INFO -- : 0:  bundler (1.5.1) from /Library/Ruby/Gems/2.3.0/specifications/bundler-1.5.1.gemspec
+I, [2018-05-31T15:56:11.865525 #4737]  INFO -- : 0:  coffee-script-source (1.12.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-source-1.12.2.gemspec
+I, [2018-05-31T15:56:11.865772 #4737]  INFO -- : 0:  execjs (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/execjs-2.7.0.gemspec
+I, [2018-05-31T15:56:11.866078 #4737]  INFO -- : 0:  coffee-script (2.4.1) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-2.4.1.gemspec
+I, [2018-05-31T15:56:11.866301 #4737]  INFO -- : 0:  rack-ssl (1.3.4) from /Library/Ruby/Gems/2.3.0/specifications/rack-ssl-1.3.4.gemspec
+I, [2018-05-31T15:56:11.866623 #4737]  INFO -- : 0:  json (1.8.6) from /Library/Ruby/Gems/2.3.0/specifications/json-1.8.6.gemspec
+I, [2018-05-31T15:56:11.866891 #4737]  INFO -- : 0:  rdoc (3.12.2) from /Library/Ruby/Gems/2.3.0/specifications/rdoc-3.12.2.gemspec
+I, [2018-05-31T15:56:12.002273 #4737]  INFO -- : 0:  thor (0.20.0) from /Library/Ruby/Gems/2.3.0/specifications/thor-0.20.0.gemspec
+I, [2018-05-31T15:56:12.598801 #4737]  INFO -- : 0:  railties (3.2.14) from /Library/Ruby/Gems/2.3.0/specifications/railties-3.2.14.gemspec
+I, [2018-05-31T15:56:12.599103 #4737]  INFO -- : 0:  coffee-rails (3.2.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-rails-3.2.2.gemspec
+I, [2018-05-31T15:56:12.599327 #4737]  INFO -- : 0:  orm_adapter (0.5.0) from /Library/Ruby/Gems/2.3.0/specifications/orm_adapter-0.5.0.gemspec
+I, [2018-05-31T15:56:12.873688 #4737]  INFO -- : 0:  responders (1.1.2) from /Library/Ruby/Gems/2.3.0/specifications/responders-1.1.2.gemspec
+I, [2018-05-31T15:56:13.026896 #4737]  INFO -- : 0:  thread_safe (0.3.6) from /Library/Ruby/Gems/2.3.0/specifications/thread_safe-0.3.6.gemspec
+I, [2018-05-31T15:56:13.027226 #4737]  INFO -- : 0:  warden (1.2.7) from /Library/Ruby/Gems/2.3.0/specifications/warden-1.2.7.gemspec
+I, [2018-05-31T15:56:13.253945 #4737]  INFO -- : 0:  devise (3.5.10) from /Library/Ruby/Gems/2.3.0/specifications/devise-3.5.10.gemspec
+I, [2018-05-31T15:56:13.254273 #4737]  INFO -- : 0:  ffi (1.9.23) from /Library/Ruby/Gems/2.3.0/specifications/ffi-1.9.23.gemspec
+I, [2018-05-31T15:56:13.254621 #4737]  INFO -- : 0:  temple (0.8.0) from /Library/Ruby/Gems/2.3.0/specifications/temple-0.8.0.gemspec
+I, [2018-05-31T15:56:13.254938 #4737]  INFO -- : 0:  haml (5.0.4) from /Library/Ruby/Gems/2.3.0/specifications/haml-5.0.4.gemspec
+I, [2018-05-31T15:56:13.255306 #4737]  INFO -- : 0:  jquery-rails (3.1.5) from /Library/Ruby/Gems/2.3.0/specifications/jquery-rails-3.1.5.gemspec
+E, [2018-05-31T15:56:14.697070 #4737] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    current directory: /Library/Ruby/Gems/2.3.0/gems/pg-1.0.0/ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20180531-4737-1p4uaqp.rb extconf.rb 
+checking for pg_config... yes
+Using config values from /usr/local/bin/pg_config
+checking for libpq-fe.h... yes
+checking for libpq/libpq-fs.h... yes
+checking for pg_config_manual.h... yes
+checking for PQconnectdb() in -lpq... no
+checking for PQconnectdb() in -llibpq... no
+checking for PQconnectdb() in -lms/libpq... no
+Can't find the PostgreSQL client library (libpq)
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/$(RUBY_BASE_NAME)
+	--with-pg
+	--without-pg
+	--enable-windows-cross
+	--disable-windows-cross
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+	--with-pqlib
+	--without-pqlib
+	--with-libpqlib
+	--without-libpqlib
+	--with-ms/libpqlib
+	--without-ms/libpqlib
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /Library/Ruby/Gems/2.3.0/extensions/universal-darwin-17/2.3.0/pg-1.0.0/mkmf.log
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Library/Ruby/Gems/2.3.0/gems/pg-1.0.0 for inspection.
+Results logged to /Library/Ruby/Gems/2.3.0/extensions/universal-darwin-17/2.3.0/pg-1.0.0/gem_make.out
+
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:92:in `run'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:48:in `block in build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/tempfile.rb:295:in `open'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:31:in `build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:164:in `block (2 levels) in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `chdir'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `block in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `synchronize'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:201:in `block in build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:748:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:297:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:336:in `update'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/usr/local/bin/bundle:22:in `load'  \n/usr/local/bin/bundle:22:in `<main>'
+I, [2018-05-31T15:56:23.521974 #4809]  INFO -- : 0:  rake (10.3.2) from /Library/Ruby/Gems/2.3.0/specifications/rake-10.3.2.gemspec
+I, [2018-05-31T15:56:23.681084 #4809]  INFO -- : 0:  i18n (0.6.9) from /Library/Ruby/Gems/2.3.0/specifications/i18n-0.6.9.gemspec
+I, [2018-05-31T15:56:23.786982 #4809]  INFO -- : 0:  multi_json (1.10.1) from /Library/Ruby/Gems/2.3.0/specifications/multi_json-1.10.1.gemspec
+I, [2018-05-31T15:56:23.787309 #4809]  INFO -- : 0:  activesupport (3.2.14) from /Library/Ruby/Gems/2.3.0/specifications/activesupport-3.2.14.gemspec
+I, [2018-05-31T15:56:23.787610 #4809]  INFO -- : 0:  builder (3.0.4) from /Library/Ruby/Gems/2.3.0/specifications/builder-3.0.4.gemspec
+I, [2018-05-31T15:56:23.787868 #4809]  INFO -- : 0:  activemodel (3.2.14) from /Library/Ruby/Gems/2.3.0/specifications/activemodel-3.2.14.gemspec
+I, [2018-05-31T15:56:23.788089 #4809]  INFO -- : 0:  erubis (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/erubis-2.7.0.gemspec
+I, [2018-05-31T15:56:23.788317 #4809]  INFO -- : 0:  journey (1.0.4) from /Library/Ruby/Gems/2.3.0/specifications/journey-1.0.4.gemspec
+I, [2018-05-31T15:56:24.000954 #4809]  INFO -- : 0:  rack (1.4.5) from /Library/Ruby/Gems/2.3.0/specifications/rack-1.4.5.gemspec
+I, [2018-05-31T15:56:24.148920 #4809]  INFO -- : 0:  rack-cache (1.2) from /Library/Ruby/Gems/2.3.0/specifications/rack-cache-1.2.gemspec
+I, [2018-05-31T15:56:24.460415 #4809]  INFO -- : 0:  rack-test (0.6.2) from /Library/Ruby/Gems/2.3.0/specifications/rack-test-0.6.2.gemspec
+I, [2018-05-31T15:56:24.460779 #4809]  INFO -- : 0:  hike (1.2.3) from /Library/Ruby/Gems/2.3.0/specifications/hike-1.2.3.gemspec
+I, [2018-05-31T15:56:24.461114 #4809]  INFO -- : 0:  tilt (1.4.1) from /Library/Ruby/Gems/2.3.0/specifications/tilt-1.4.1.gemspec
+I, [2018-05-31T15:56:24.773173 #4809]  INFO -- : 0:  sprockets (2.2.2) from /Library/Ruby/Gems/2.3.0/specifications/sprockets-2.2.2.gemspec
+I, [2018-05-31T15:56:24.773539 #4809]  INFO -- : 0:  actionpack (3.2.14) from /Library/Ruby/Gems/2.3.0/specifications/actionpack-3.2.14.gemspec
+I, [2018-05-31T15:56:24.773839 #4809]  INFO -- : 0:  mime-types (1.25.1) from /Library/Ruby/Gems/2.3.0/specifications/mime-types-1.25.1.gemspec
+I, [2018-05-31T15:56:24.845306 #4809]  INFO -- : 0:  polyglot (0.3.4) from /Library/Ruby/Gems/2.3.0/specifications/polyglot-0.3.4.gemspec
+I, [2018-05-31T15:56:24.845666 #4809]  INFO -- : 0:  treetop (1.4.15) from /Library/Ruby/Gems/2.3.0/specifications/treetop-1.4.15.gemspec
+I, [2018-05-31T15:56:25.260260 #4809]  INFO -- : 0:  mail (2.5.4) from /Library/Ruby/Gems/2.3.0/specifications/mail-2.5.4.gemspec
+I, [2018-05-31T15:56:25.260940 #4809]  INFO -- : 0:  actionmailer (3.2.14) from /Library/Ruby/Gems/2.3.0/specifications/actionmailer-3.2.14.gemspec
+I, [2018-05-31T15:56:25.261424 #4809]  INFO -- : 0:  arel (3.0.3) from /Library/Ruby/Gems/2.3.0/specifications/arel-3.0.3.gemspec
+I, [2018-05-31T15:56:25.686444 #4809]  INFO -- : 0:  tzinfo (0.3.39) from /Library/Ruby/Gems/2.3.0/specifications/tzinfo-0.3.39.gemspec
+I, [2018-05-31T15:56:25.687148 #4809]  INFO -- : 0:  activerecord (3.2.14) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-3.2.14.gemspec
+I, [2018-05-31T15:56:25.687510 #4809]  INFO -- : 0:  activerecord-oracle_enhanced-adapter (1.4.3) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-oracle_enhanced-adapter-1.4.3.gemspec
+I, [2018-05-31T15:56:25.687768 #4809]  INFO -- : 0:  activeresource (3.2.14) from /Library/Ruby/Gems/2.3.0/specifications/activeresource-3.2.14.gemspec
+I, [2018-05-31T15:56:27.023877 #4809]  INFO -- : 0:  bcrypt (3.1.11) from /Library/Ruby/Gems/2.3.0/specifications/bcrypt-3.1.11.gemspec
+I, [2018-05-31T15:56:27.024273 #4809]  INFO -- : 0:  bundler (1.5.1) from /Library/Ruby/Gems/2.3.0/specifications/bundler-1.5.1.gemspec
+I, [2018-05-31T15:56:27.151735 #4809]  INFO -- : 0:  coffee-script-source (1.7.0) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-source-1.7.0.gemspec
+I, [2018-05-31T15:56:27.251898 #4809]  INFO -- : 0:  execjs (2.0.2) from /Library/Ruby/Gems/2.3.0/specifications/execjs-2.0.2.gemspec
+I, [2018-05-31T15:56:27.338760 #4809]  INFO -- : 0:  coffee-script (2.2.0) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-2.2.0.gemspec
+I, [2018-05-31T15:56:27.339096 #4809]  INFO -- : 0:  rack-ssl (1.3.4) from /Library/Ruby/Gems/2.3.0/specifications/rack-ssl-1.3.4.gemspec
+E, [2018-05-31T15:56:27.715806 #4809] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    current directory: /Library/Ruby/Gems/2.3.0/gems/json-1.8.1/ext/json/ext/generator
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20180531-4809-1dwu5rb.rb extconf.rb 
+creating Makefile
+
+current directory: /Library/Ruby/Gems/2.3.0/gems/json-1.8.1/ext/json/ext/generator
+make "DESTDIR=" clean
+
+current directory: /Library/Ruby/Gems/2.3.0/gems/json-1.8.1/ext/json/ext/generator
+make "DESTDIR="
+compiling generator.c
+In file included from generator.c:1:
+./../fbuffer/fbuffer.h:175:47: error: too few arguments provided to function-like macro invocation
+    VALUE result = rb_str_new(FBUFFER_PAIR(fb));
+                                              ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/include/ruby-2.3.0/ruby/intern.h:798:9: note: macro 'rb_str_new' defined here
+#define rb_str_new(str, len) __extension__ (    \
+        ^
+In file included from generator.c:1:
+./../fbuffer/fbuffer.h:175:11: warning: incompatible pointer to integer conversion initializing 'VALUE' (aka 'unsigned long') with an expression of type 'VALUE (const char *, long)' (aka 'unsigned long (const char *, long)') [-Wint-conversion]
+    VALUE result = rb_str_new(FBUFFER_PAIR(fb));
+          ^        ~~~~~~~~~~
+1 warning and 1 error generated.
+make: *** [generator.o] Error 1
+
+make failed, exit code 2
+
+Gem files will remain installed in /Library/Ruby/Gems/2.3.0/gems/json-1.8.1 for inspection.
+Results logged to /Library/Ruby/Gems/2.3.0/extensions/universal-darwin-17/2.3.0/json-1.8.1/gem_make.out
+
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:92:in `run'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:52:in `block in make'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:44:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:44:in `make'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:61:in `block in build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/tempfile.rb:295:in `open'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:31:in `build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:164:in `block (2 levels) in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `chdir'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `block in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `synchronize'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:201:in `block in build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:748:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:297:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/usr/local/bin/bundle:22:in `load'  \n/usr/local/bin/bundle:22:in `<main>'
+I, [2018-05-31T16:00:08.557216 #5177]  INFO -- : 0:  rake (12.3.1) from /Library/Ruby/Gems/2.3.0/specifications/rake-12.3.1.gemspec
+I, [2018-05-31T16:00:08.557497 #5177]  INFO -- : 0:  concurrent-ruby (1.0.5) from /Library/Ruby/Gems/2.3.0/specifications/concurrent-ruby-1.0.5.gemspec
+I, [2018-05-31T16:00:08.713355 #5177]  INFO -- : 0:  i18n (1.0.1) from /Library/Ruby/Gems/2.3.0/specifications/i18n-1.0.1.gemspec
+I, [2018-05-31T16:00:08.847391 #5177]  INFO -- : 0:  minitest (5.11.3) from /Library/Ruby/Gems/2.3.0/specifications/minitest-5.11.3.gemspec
+I, [2018-05-31T16:00:08.847696 #5177]  INFO -- : 0:  thread_safe (0.3.6) from /Library/Ruby/Gems/2.3.0/specifications/thread_safe-0.3.6.gemspec
+I, [2018-05-31T16:00:09.029371 #5177]  INFO -- : 0:  tzinfo (1.2.5) from /Library/Ruby/Gems/2.3.0/specifications/tzinfo-1.2.5.gemspec
+I, [2018-05-31T16:00:09.328234 #5177]  INFO -- : 0:  activesupport (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activesupport-5.2.0.gemspec
+I, [2018-05-31T16:00:09.429132 #5177]  INFO -- : 0:  builder (3.2.3) from /Library/Ruby/Gems/2.3.0/specifications/builder-3.2.3.gemspec
+I, [2018-05-31T16:00:09.513955 #5177]  INFO -- : 0:  erubi (1.7.1) from /Library/Ruby/Gems/2.3.0/specifications/erubi-1.7.1.gemspec
+I, [2018-05-31T16:00:09.617559 #5177]  INFO -- : 0:  mini_portile2 (2.3.0) from /Library/Ruby/Gems/2.3.0/specifications/mini_portile2-2.3.0.gemspec
+I, [2018-05-31T16:01:27.238666 #5177]  INFO -- : 0:  nokogiri (1.8.2) from /Library/Ruby/Gems/2.3.0/specifications/nokogiri-1.8.2.gemspec
+I, [2018-05-31T16:01:29.073616 #5177]  INFO -- : 0:  rails-dom-testing (2.0.3) from /Library/Ruby/Gems/2.3.0/specifications/rails-dom-testing-2.0.3.gemspec
+I, [2018-05-31T16:01:29.224613 #5177]  INFO -- : 0:  crass (1.0.4) from /Library/Ruby/Gems/2.3.0/specifications/crass-1.0.4.gemspec
+I, [2018-05-31T16:01:29.357868 #5177]  INFO -- : 0:  loofah (2.2.2) from /Library/Ruby/Gems/2.3.0/specifications/loofah-2.2.2.gemspec
+I, [2018-05-31T16:01:29.449011 #5177]  INFO -- : 0:  rails-html-sanitizer (1.0.4) from /Library/Ruby/Gems/2.3.0/specifications/rails-html-sanitizer-1.0.4.gemspec
+I, [2018-05-31T16:01:29.709382 #5177]  INFO -- : 0:  actionview (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionview-5.2.0.gemspec
+I, [2018-05-31T16:01:29.936755 #5177]  INFO -- : 0:  rack (2.0.5) from /Library/Ruby/Gems/2.3.0/specifications/rack-2.0.5.gemspec
+I, [2018-05-31T16:01:30.044360 #5177]  INFO -- : 0:  rack-test (1.0.0) from /Library/Ruby/Gems/2.3.0/specifications/rack-test-1.0.0.gemspec
+I, [2018-05-31T16:01:30.276038 #5177]  INFO -- : 0:  actionpack (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionpack-5.2.0.gemspec
+I, [2018-05-31T16:01:34.155044 #5177]  INFO -- : 0:  nio4r (2.3.1) from /Library/Ruby/Gems/2.3.0/specifications/nio4r-2.3.1.gemspec
+I, [2018-05-31T16:01:34.309124 #5177]  INFO -- : 0:  websocket-extensions (0.1.3) from /Library/Ruby/Gems/2.3.0/specifications/websocket-extensions-0.1.3.gemspec
+I, [2018-05-31T16:01:34.925561 #5177]  INFO -- : 0:  websocket-driver (0.7.0) from /Library/Ruby/Gems/2.3.0/specifications/websocket-driver-0.7.0.gemspec
+I, [2018-05-31T16:01:35.080227 #5177]  INFO -- : 0:  actioncable (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actioncable-5.2.0.gemspec
+I, [2018-05-31T16:01:35.167402 #5177]  INFO -- : 0:  globalid (0.4.1) from /Library/Ruby/Gems/2.3.0/specifications/globalid-0.4.1.gemspec
+I, [2018-05-31T16:01:35.331309 #5177]  INFO -- : 0:  activejob (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activejob-5.2.0.gemspec
+I, [2018-05-31T16:01:35.433880 #5177]  INFO -- : 0:  mini_mime (1.0.0) from /Library/Ruby/Gems/2.3.0/specifications/mini_mime-1.0.0.gemspec
+I, [2018-05-31T16:01:35.691884 #5177]  INFO -- : 0:  mail (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/mail-2.7.0.gemspec
+I, [2018-05-31T16:01:35.808335 #5177]  INFO -- : 0:  actionmailer (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionmailer-5.2.0.gemspec
+I, [2018-05-31T16:01:35.933744 #5177]  INFO -- : 0:  activemodel (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activemodel-5.2.0.gemspec
+I, [2018-05-31T16:01:36.062221 #5177]  INFO -- : 0:  arel (9.0.0) from /Library/Ruby/Gems/2.3.0/specifications/arel-9.0.0.gemspec
+I, [2018-05-31T16:01:36.357482 #5177]  INFO -- : 0:  activerecord (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-5.2.0.gemspec
+I, [2018-05-31T16:01:36.357984 #5177]  INFO -- : 0:  activerecord-oracle_enhanced-adapter (1.4.3) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-oracle_enhanced-adapter-1.4.3.gemspec
+I, [2018-05-31T16:01:36.566848 #5177]  INFO -- : 0:  mimemagic (0.3.2) from /Library/Ruby/Gems/2.3.0/specifications/mimemagic-0.3.2.gemspec
+I, [2018-05-31T16:01:37.919607 #5177]  INFO -- : 0:  marcel (0.3.2) from /Library/Ruby/Gems/2.3.0/specifications/marcel-0.3.2.gemspec
+I, [2018-05-31T16:01:38.072797 #5177]  INFO -- : 0:  activestorage (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activestorage-5.2.0.gemspec
+I, [2018-05-31T16:01:38.073422 #5177]  INFO -- : 0:  bcrypt (3.1.12) from /Library/Ruby/Gems/2.3.0/specifications/bcrypt-3.1.12.gemspec
+I, [2018-05-31T16:01:38.074011 #5177]  INFO -- : 0:  bundler (1.5.1) from /Library/Ruby/Gems/2.3.0/specifications/bundler-1.5.1.gemspec
+I, [2018-05-31T16:01:38.074256 #5177]  INFO -- : 0:  coffee-script-source (1.12.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-source-1.12.2.gemspec
+I, [2018-05-31T16:01:38.074510 #5177]  INFO -- : 0:  execjs (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/execjs-2.7.0.gemspec
+I, [2018-05-31T16:01:38.074823 #5177]  INFO -- : 0:  coffee-script (2.4.1) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-2.4.1.gemspec
+I, [2018-05-31T16:01:38.177256 #5177]  INFO -- : 0:  method_source (0.9.0) from /Library/Ruby/Gems/2.3.0/specifications/method_source-0.9.0.gemspec
+I, [2018-05-31T16:01:38.177774 #5177]  INFO -- : 0:  thor (0.20.0) from /Library/Ruby/Gems/2.3.0/specifications/thor-0.20.0.gemspec
+I, [2018-05-31T16:01:38.494986 #5177]  INFO -- : 0:  railties (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/railties-5.2.0.gemspec
+I, [2018-05-31T16:01:38.566125 #5177]  INFO -- : 0:  coffee-rails (4.2.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-rails-4.2.2.gemspec
+I, [2018-05-31T16:01:38.566383 #5177]  INFO -- : 0:  orm_adapter (0.5.0) from /Library/Ruby/Gems/2.3.0/specifications/orm_adapter-0.5.0.gemspec
+I, [2018-05-31T16:01:38.669223 #5177]  INFO -- : 0:  responders (2.4.0) from /Library/Ruby/Gems/2.3.0/specifications/responders-2.4.0.gemspec
+I, [2018-05-31T16:01:38.669510 #5177]  INFO -- : 0:  warden (1.2.7) from /Library/Ruby/Gems/2.3.0/specifications/warden-1.2.7.gemspec
+I, [2018-05-31T16:01:38.913331 #5177]  INFO -- : 0:  devise (4.4.3) from /Library/Ruby/Gems/2.3.0/specifications/devise-4.4.3.gemspec
+I, [2018-05-31T16:01:38.913610 #5177]  INFO -- : 0:  ffi (1.9.23) from /Library/Ruby/Gems/2.3.0/specifications/ffi-1.9.23.gemspec
+I, [2018-05-31T16:01:38.913845 #5177]  INFO -- : 0:  temple (0.8.0) from /Library/Ruby/Gems/2.3.0/specifications/temple-0.8.0.gemspec
+I, [2018-05-31T16:01:39.064905 #5177]  INFO -- : 0:  tilt (2.0.8) from /Library/Ruby/Gems/2.3.0/specifications/tilt-2.0.8.gemspec
+I, [2018-05-31T16:01:39.065176 #5177]  INFO -- : 0:  haml (5.0.4) from /Library/Ruby/Gems/2.3.0/specifications/haml-5.0.4.gemspec
+I, [2018-05-31T16:01:39.295174 #5177]  INFO -- : 0:  jquery-rails (4.3.3) from /Library/Ruby/Gems/2.3.0/specifications/jquery-rails-4.3.3.gemspec
+E, [2018-05-31T16:01:41.129264 #5177] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    current directory: /Library/Ruby/Gems/2.3.0/gems/pg-1.0.0/ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20180531-5177-1a9enuh.rb extconf.rb 
+checking for pg_config... yes
+Using config values from /usr/local/bin/pg_config
+checking for libpq-fe.h... yes
+checking for libpq/libpq-fs.h... yes
+checking for pg_config_manual.h... yes
+checking for PQconnectdb() in -lpq... no
+checking for PQconnectdb() in -llibpq... no
+checking for PQconnectdb() in -lms/libpq... no
+Can't find the PostgreSQL client library (libpq)
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/$(RUBY_BASE_NAME)
+	--with-pg
+	--without-pg
+	--enable-windows-cross
+	--disable-windows-cross
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+	--with-pqlib
+	--without-pqlib
+	--with-libpqlib
+	--without-libpqlib
+	--with-ms/libpqlib
+	--without-ms/libpqlib
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /Library/Ruby/Gems/2.3.0/extensions/universal-darwin-17/2.3.0/pg-1.0.0/mkmf.log
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Library/Ruby/Gems/2.3.0/gems/pg-1.0.0 for inspection.
+Results logged to /Library/Ruby/Gems/2.3.0/extensions/universal-darwin-17/2.3.0/pg-1.0.0/gem_make.out
+
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:92:in `run'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:48:in `block in build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/tempfile.rb:295:in `open'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:31:in `build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:164:in `block (2 levels) in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `chdir'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `block in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `synchronize'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:201:in `block in build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:748:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:297:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/usr/local/bin/bundle:22:in `load'  \n/usr/local/bin/bundle:22:in `<main>'
+I, [2018-05-31T16:03:18.417084 #17541]  INFO -- : 0:  rake (12.3.1) from /Library/Ruby/Gems/2.3.0/specifications/rake-12.3.1.gemspec
+I, [2018-05-31T16:03:18.419086 #17541]  INFO -- : 0:  concurrent-ruby (1.0.5) from /Library/Ruby/Gems/2.3.0/specifications/concurrent-ruby-1.0.5.gemspec
+I, [2018-05-31T16:03:18.419518 #17541]  INFO -- : 0:  i18n (1.0.1) from /Library/Ruby/Gems/2.3.0/specifications/i18n-1.0.1.gemspec
+I, [2018-05-31T16:03:18.419935 #17541]  INFO -- : 0:  minitest (5.11.3) from /Library/Ruby/Gems/2.3.0/specifications/minitest-5.11.3.gemspec
+I, [2018-05-31T16:03:18.420184 #17541]  INFO -- : 0:  thread_safe (0.3.6) from /Library/Ruby/Gems/2.3.0/specifications/thread_safe-0.3.6.gemspec
+I, [2018-05-31T16:03:18.420446 #17541]  INFO -- : 0:  tzinfo (1.2.5) from /Library/Ruby/Gems/2.3.0/specifications/tzinfo-1.2.5.gemspec
+I, [2018-05-31T16:03:18.420727 #17541]  INFO -- : 0:  activesupport (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activesupport-5.2.0.gemspec
+I, [2018-05-31T16:03:18.420978 #17541]  INFO -- : 0:  builder (3.2.3) from /Library/Ruby/Gems/2.3.0/specifications/builder-3.2.3.gemspec
+I, [2018-05-31T16:03:18.421228 #17541]  INFO -- : 0:  erubi (1.7.1) from /Library/Ruby/Gems/2.3.0/specifications/erubi-1.7.1.gemspec
+I, [2018-05-31T16:03:18.421636 #17541]  INFO -- : 0:  mini_portile2 (2.3.0) from /Library/Ruby/Gems/2.3.0/specifications/mini_portile2-2.3.0.gemspec
+I, [2018-05-31T16:03:18.421903 #17541]  INFO -- : 0:  nokogiri (1.8.2) from /Library/Ruby/Gems/2.3.0/specifications/nokogiri-1.8.2.gemspec
+I, [2018-05-31T16:03:18.422192 #17541]  INFO -- : 0:  rails-dom-testing (2.0.3) from /Library/Ruby/Gems/2.3.0/specifications/rails-dom-testing-2.0.3.gemspec
+I, [2018-05-31T16:03:18.422438 #17541]  INFO -- : 0:  crass (1.0.4) from /Library/Ruby/Gems/2.3.0/specifications/crass-1.0.4.gemspec
+I, [2018-05-31T16:03:18.422717 #17541]  INFO -- : 0:  loofah (2.2.2) from /Library/Ruby/Gems/2.3.0/specifications/loofah-2.2.2.gemspec
+I, [2018-05-31T16:03:18.423012 #17541]  INFO -- : 0:  rails-html-sanitizer (1.0.4) from /Library/Ruby/Gems/2.3.0/specifications/rails-html-sanitizer-1.0.4.gemspec
+I, [2018-05-31T16:03:18.423254 #17541]  INFO -- : 0:  actionview (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionview-5.2.0.gemspec
+I, [2018-05-31T16:03:18.423526 #17541]  INFO -- : 0:  rack (2.0.5) from /Library/Ruby/Gems/2.3.0/specifications/rack-2.0.5.gemspec
+I, [2018-05-31T16:03:18.423803 #17541]  INFO -- : 0:  rack-test (1.0.0) from /Library/Ruby/Gems/2.3.0/specifications/rack-test-1.0.0.gemspec
+I, [2018-05-31T16:03:18.424072 #17541]  INFO -- : 0:  actionpack (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionpack-5.2.0.gemspec
+I, [2018-05-31T16:03:18.424326 #17541]  INFO -- : 0:  nio4r (2.3.1) from /Library/Ruby/Gems/2.3.0/specifications/nio4r-2.3.1.gemspec
+I, [2018-05-31T16:03:18.424609 #17541]  INFO -- : 0:  websocket-extensions (0.1.3) from /Library/Ruby/Gems/2.3.0/specifications/websocket-extensions-0.1.3.gemspec
+I, [2018-05-31T16:03:18.424848 #17541]  INFO -- : 0:  websocket-driver (0.7.0) from /Library/Ruby/Gems/2.3.0/specifications/websocket-driver-0.7.0.gemspec
+I, [2018-05-31T16:03:18.425122 #17541]  INFO -- : 0:  actioncable (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actioncable-5.2.0.gemspec
+I, [2018-05-31T16:03:18.425390 #17541]  INFO -- : 0:  globalid (0.4.1) from /Library/Ruby/Gems/2.3.0/specifications/globalid-0.4.1.gemspec
+I, [2018-05-31T16:03:18.425658 #17541]  INFO -- : 0:  activejob (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activejob-5.2.0.gemspec
+I, [2018-05-31T16:03:18.425915 #17541]  INFO -- : 0:  mini_mime (1.0.0) from /Library/Ruby/Gems/2.3.0/specifications/mini_mime-1.0.0.gemspec
+I, [2018-05-31T16:03:18.426205 #17541]  INFO -- : 0:  mail (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/mail-2.7.0.gemspec
+I, [2018-05-31T16:03:18.426450 #17541]  INFO -- : 0:  actionmailer (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionmailer-5.2.0.gemspec
+I, [2018-05-31T16:03:18.426722 #17541]  INFO -- : 0:  activemodel (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activemodel-5.2.0.gemspec
+I, [2018-05-31T16:03:18.426994 #17541]  INFO -- : 0:  arel (9.0.0) from /Library/Ruby/Gems/2.3.0/specifications/arel-9.0.0.gemspec
+I, [2018-05-31T16:03:18.427256 #17541]  INFO -- : 0:  activerecord (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-5.2.0.gemspec
+I, [2018-05-31T16:03:18.427505 #17541]  INFO -- : 0:  activerecord-oracle_enhanced-adapter (1.4.3) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-oracle_enhanced-adapter-1.4.3.gemspec
+I, [2018-05-31T16:03:18.427750 #17541]  INFO -- : 0:  mimemagic (0.3.2) from /Library/Ruby/Gems/2.3.0/specifications/mimemagic-0.3.2.gemspec
+I, [2018-05-31T16:03:18.427977 #17541]  INFO -- : 0:  marcel (0.3.2) from /Library/Ruby/Gems/2.3.0/specifications/marcel-0.3.2.gemspec
+I, [2018-05-31T16:03:18.428485 #17541]  INFO -- : 0:  activestorage (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activestorage-5.2.0.gemspec
+I, [2018-05-31T16:03:18.428721 #17541]  INFO -- : 0:  bcrypt (3.1.12) from /Library/Ruby/Gems/2.3.0/specifications/bcrypt-3.1.12.gemspec
+I, [2018-05-31T16:03:18.428932 #17541]  INFO -- : 0:  bundler (1.5.1) from /Library/Ruby/Gems/2.3.0/specifications/bundler-1.5.1.gemspec
+I, [2018-05-31T16:03:18.429173 #17541]  INFO -- : 0:  coffee-script-source (1.12.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-source-1.12.2.gemspec
+I, [2018-05-31T16:03:18.429495 #17541]  INFO -- : 0:  execjs (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/execjs-2.7.0.gemspec
+I, [2018-05-31T16:03:18.429776 #17541]  INFO -- : 0:  coffee-script (2.4.1) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-2.4.1.gemspec
+I, [2018-05-31T16:03:18.429988 #17541]  INFO -- : 0:  method_source (0.9.0) from /Library/Ruby/Gems/2.3.0/specifications/method_source-0.9.0.gemspec
+I, [2018-05-31T16:03:18.430233 #17541]  INFO -- : 0:  thor (0.20.0) from /Library/Ruby/Gems/2.3.0/specifications/thor-0.20.0.gemspec
+I, [2018-05-31T16:03:18.430521 #17541]  INFO -- : 0:  railties (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/railties-5.2.0.gemspec
+I, [2018-05-31T16:03:18.430757 #17541]  INFO -- : 0:  coffee-rails (4.2.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-rails-4.2.2.gemspec
+I, [2018-05-31T16:03:18.430993 #17541]  INFO -- : 0:  orm_adapter (0.5.0) from /Library/Ruby/Gems/2.3.0/specifications/orm_adapter-0.5.0.gemspec
+I, [2018-05-31T16:03:18.431200 #17541]  INFO -- : 0:  responders (2.4.0) from /Library/Ruby/Gems/2.3.0/specifications/responders-2.4.0.gemspec
+I, [2018-05-31T16:03:18.431425 #17541]  INFO -- : 0:  warden (1.2.7) from /Library/Ruby/Gems/2.3.0/specifications/warden-1.2.7.gemspec
+I, [2018-05-31T16:03:18.431636 #17541]  INFO -- : 0:  devise (4.4.3) from /Library/Ruby/Gems/2.3.0/specifications/devise-4.4.3.gemspec
+I, [2018-05-31T16:03:18.431866 #17541]  INFO -- : 0:  ffi (1.9.23) from /Library/Ruby/Gems/2.3.0/specifications/ffi-1.9.23.gemspec
+I, [2018-05-31T16:03:18.432111 #17541]  INFO -- : 0:  temple (0.8.0) from /Library/Ruby/Gems/2.3.0/specifications/temple-0.8.0.gemspec
+I, [2018-05-31T16:03:18.432340 #17541]  INFO -- : 0:  tilt (2.0.8) from /Library/Ruby/Gems/2.3.0/specifications/tilt-2.0.8.gemspec
+I, [2018-05-31T16:03:18.432560 #17541]  INFO -- : 0:  haml (5.0.4) from /Library/Ruby/Gems/2.3.0/specifications/haml-5.0.4.gemspec
+I, [2018-05-31T16:03:18.432799 #17541]  INFO -- : 0:  jquery-rails (4.3.3) from /Library/Ruby/Gems/2.3.0/specifications/jquery-rails-4.3.3.gemspec
+E, [2018-05-31T16:03:19.867253 #17541] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    current directory: /Library/Ruby/Gems/2.3.0/gems/pg-1.0.0/ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20180531-17541-ejhql8.rb extconf.rb 
+checking for pg_config... yes
+Using config values from /usr/local/bin/pg_config
+checking for libpq-fe.h... yes
+checking for libpq/libpq-fs.h... yes
+checking for pg_config_manual.h... yes
+checking for PQconnectdb() in -lpq... no
+checking for PQconnectdb() in -llibpq... no
+checking for PQconnectdb() in -lms/libpq... no
+Can't find the PostgreSQL client library (libpq)
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/$(RUBY_BASE_NAME)
+	--with-pg
+	--without-pg
+	--enable-windows-cross
+	--disable-windows-cross
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+	--with-pqlib
+	--without-pqlib
+	--with-libpqlib
+	--without-libpqlib
+	--with-ms/libpqlib
+	--without-ms/libpqlib
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /Library/Ruby/Gems/2.3.0/extensions/universal-darwin-17/2.3.0/pg-1.0.0/mkmf.log
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Library/Ruby/Gems/2.3.0/gems/pg-1.0.0 for inspection.
+Results logged to /Library/Ruby/Gems/2.3.0/extensions/universal-darwin-17/2.3.0/pg-1.0.0/gem_make.out
+
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:92:in `run'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:48:in `block in build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/tempfile.rb:295:in `open'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:31:in `build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:164:in `block (2 levels) in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `chdir'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `block in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `synchronize'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:201:in `block in build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:748:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:297:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/usr/local/bin/bundle:22:in `load'  \n/usr/local/bin/bundle:22:in `<main>'
+I, [2018-05-31T16:04:16.459810 #17650]  INFO -- : 0:  rake (12.3.1) from /Library/Ruby/Gems/2.3.0/specifications/rake-12.3.1.gemspec
+I, [2018-05-31T16:04:16.460994 #17650]  INFO -- : 0:  concurrent-ruby (1.0.5) from /Library/Ruby/Gems/2.3.0/specifications/concurrent-ruby-1.0.5.gemspec
+I, [2018-05-31T16:04:16.461360 #17650]  INFO -- : 0:  i18n (1.0.1) from /Library/Ruby/Gems/2.3.0/specifications/i18n-1.0.1.gemspec
+I, [2018-05-31T16:04:16.461680 #17650]  INFO -- : 0:  minitest (5.11.3) from /Library/Ruby/Gems/2.3.0/specifications/minitest-5.11.3.gemspec
+I, [2018-05-31T16:04:16.461960 #17650]  INFO -- : 0:  thread_safe (0.3.6) from /Library/Ruby/Gems/2.3.0/specifications/thread_safe-0.3.6.gemspec
+I, [2018-05-31T16:04:16.462362 #17650]  INFO -- : 0:  tzinfo (1.2.5) from /Library/Ruby/Gems/2.3.0/specifications/tzinfo-1.2.5.gemspec
+I, [2018-05-31T16:04:16.462594 #17650]  INFO -- : 0:  activesupport (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activesupport-5.2.0.gemspec
+I, [2018-05-31T16:04:16.462808 #17650]  INFO -- : 0:  builder (3.2.3) from /Library/Ruby/Gems/2.3.0/specifications/builder-3.2.3.gemspec
+I, [2018-05-31T16:04:16.462990 #17650]  INFO -- : 0:  erubi (1.7.1) from /Library/Ruby/Gems/2.3.0/specifications/erubi-1.7.1.gemspec
+I, [2018-05-31T16:04:16.463191 #17650]  INFO -- : 0:  mini_portile2 (2.3.0) from /Library/Ruby/Gems/2.3.0/specifications/mini_portile2-2.3.0.gemspec
+I, [2018-05-31T16:04:16.463561 #17650]  INFO -- : 0:  nokogiri (1.8.2) from /Library/Ruby/Gems/2.3.0/specifications/nokogiri-1.8.2.gemspec
+I, [2018-05-31T16:04:16.464909 #17650]  INFO -- : 0:  rails-dom-testing (2.0.3) from /Library/Ruby/Gems/2.3.0/specifications/rails-dom-testing-2.0.3.gemspec
+I, [2018-05-31T16:04:16.465297 #17650]  INFO -- : 0:  crass (1.0.4) from /Library/Ruby/Gems/2.3.0/specifications/crass-1.0.4.gemspec
+I, [2018-05-31T16:04:16.465695 #17650]  INFO -- : 0:  loofah (2.2.2) from /Library/Ruby/Gems/2.3.0/specifications/loofah-2.2.2.gemspec
+I, [2018-05-31T16:04:16.466018 #17650]  INFO -- : 0:  rails-html-sanitizer (1.0.4) from /Library/Ruby/Gems/2.3.0/specifications/rails-html-sanitizer-1.0.4.gemspec
+I, [2018-05-31T16:04:16.466269 #17650]  INFO -- : 0:  actionview (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionview-5.2.0.gemspec
+I, [2018-05-31T16:04:16.466520 #17650]  INFO -- : 0:  rack (2.0.5) from /Library/Ruby/Gems/2.3.0/specifications/rack-2.0.5.gemspec
+I, [2018-05-31T16:04:16.466770 #17650]  INFO -- : 0:  rack-test (1.0.0) from /Library/Ruby/Gems/2.3.0/specifications/rack-test-1.0.0.gemspec
+I, [2018-05-31T16:04:16.467014 #17650]  INFO -- : 0:  actionpack (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionpack-5.2.0.gemspec
+I, [2018-05-31T16:04:16.467255 #17650]  INFO -- : 0:  nio4r (2.3.1) from /Library/Ruby/Gems/2.3.0/specifications/nio4r-2.3.1.gemspec
+I, [2018-05-31T16:04:16.467495 #17650]  INFO -- : 0:  websocket-extensions (0.1.3) from /Library/Ruby/Gems/2.3.0/specifications/websocket-extensions-0.1.3.gemspec
+I, [2018-05-31T16:04:16.467737 #17650]  INFO -- : 0:  websocket-driver (0.7.0) from /Library/Ruby/Gems/2.3.0/specifications/websocket-driver-0.7.0.gemspec
+I, [2018-05-31T16:04:16.467979 #17650]  INFO -- : 0:  actioncable (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actioncable-5.2.0.gemspec
+I, [2018-05-31T16:04:16.468222 #17650]  INFO -- : 0:  globalid (0.4.1) from /Library/Ruby/Gems/2.3.0/specifications/globalid-0.4.1.gemspec
+I, [2018-05-31T16:04:16.468470 #17650]  INFO -- : 0:  activejob (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activejob-5.2.0.gemspec
+I, [2018-05-31T16:04:16.468701 #17650]  INFO -- : 0:  mini_mime (1.0.0) from /Library/Ruby/Gems/2.3.0/specifications/mini_mime-1.0.0.gemspec
+I, [2018-05-31T16:04:16.468978 #17650]  INFO -- : 0:  mail (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/mail-2.7.0.gemspec
+I, [2018-05-31T16:04:16.469244 #17650]  INFO -- : 0:  actionmailer (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionmailer-5.2.0.gemspec
+I, [2018-05-31T16:04:16.469488 #17650]  INFO -- : 0:  activemodel (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activemodel-5.2.0.gemspec
+I, [2018-05-31T16:04:16.469723 #17650]  INFO -- : 0:  arel (9.0.0) from /Library/Ruby/Gems/2.3.0/specifications/arel-9.0.0.gemspec
+I, [2018-05-31T16:04:16.469964 #17650]  INFO -- : 0:  activerecord (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-5.2.0.gemspec
+I, [2018-05-31T16:04:16.470202 #17650]  INFO -- : 0:  activerecord-oracle_enhanced-adapter (1.4.3) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-oracle_enhanced-adapter-1.4.3.gemspec
+I, [2018-05-31T16:04:16.470450 #17650]  INFO -- : 0:  mimemagic (0.3.2) from /Library/Ruby/Gems/2.3.0/specifications/mimemagic-0.3.2.gemspec
+I, [2018-05-31T16:04:16.470692 #17650]  INFO -- : 0:  marcel (0.3.2) from /Library/Ruby/Gems/2.3.0/specifications/marcel-0.3.2.gemspec
+I, [2018-05-31T16:04:16.470947 #17650]  INFO -- : 0:  activestorage (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activestorage-5.2.0.gemspec
+I, [2018-05-31T16:04:16.471178 #17650]  INFO -- : 0:  bcrypt (3.1.12) from /Library/Ruby/Gems/2.3.0/specifications/bcrypt-3.1.12.gemspec
+I, [2018-05-31T16:04:16.471415 #17650]  INFO -- : 0:  bundler (1.5.1) from /Library/Ruby/Gems/2.3.0/specifications/bundler-1.5.1.gemspec
+I, [2018-05-31T16:04:16.471755 #17650]  INFO -- : 0:  coffee-script-source (1.12.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-source-1.12.2.gemspec
+I, [2018-05-31T16:04:16.472088 #17650]  INFO -- : 0:  execjs (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/execjs-2.7.0.gemspec
+I, [2018-05-31T16:04:16.472362 #17650]  INFO -- : 0:  coffee-script (2.4.1) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-2.4.1.gemspec
+I, [2018-05-31T16:04:16.472610 #17650]  INFO -- : 0:  method_source (0.9.0) from /Library/Ruby/Gems/2.3.0/specifications/method_source-0.9.0.gemspec
+I, [2018-05-31T16:04:16.472860 #17650]  INFO -- : 0:  thor (0.20.0) from /Library/Ruby/Gems/2.3.0/specifications/thor-0.20.0.gemspec
+I, [2018-05-31T16:04:16.473090 #17650]  INFO -- : 0:  railties (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/railties-5.2.0.gemspec
+I, [2018-05-31T16:04:16.473343 #17650]  INFO -- : 0:  coffee-rails (4.2.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-rails-4.2.2.gemspec
+I, [2018-05-31T16:04:16.473573 #17650]  INFO -- : 0:  orm_adapter (0.5.0) from /Library/Ruby/Gems/2.3.0/specifications/orm_adapter-0.5.0.gemspec
+I, [2018-05-31T16:04:16.473843 #17650]  INFO -- : 0:  responders (2.4.0) from /Library/Ruby/Gems/2.3.0/specifications/responders-2.4.0.gemspec
+I, [2018-05-31T16:04:16.474081 #17650]  INFO -- : 0:  warden (1.2.7) from /Library/Ruby/Gems/2.3.0/specifications/warden-1.2.7.gemspec
+I, [2018-05-31T16:04:16.474324 #17650]  INFO -- : 0:  devise (4.4.3) from /Library/Ruby/Gems/2.3.0/specifications/devise-4.4.3.gemspec
+I, [2018-05-31T16:04:16.474568 #17650]  INFO -- : 0:  ffi (1.9.23) from /Library/Ruby/Gems/2.3.0/specifications/ffi-1.9.23.gemspec
+I, [2018-05-31T16:04:16.474805 #17650]  INFO -- : 0:  temple (0.8.0) from /Library/Ruby/Gems/2.3.0/specifications/temple-0.8.0.gemspec
+I, [2018-05-31T16:04:16.475052 #17650]  INFO -- : 0:  tilt (2.0.8) from /Library/Ruby/Gems/2.3.0/specifications/tilt-2.0.8.gemspec
+I, [2018-05-31T16:04:16.475286 #17650]  INFO -- : 0:  haml (5.0.4) from /Library/Ruby/Gems/2.3.0/specifications/haml-5.0.4.gemspec
+I, [2018-05-31T16:04:16.475523 #17650]  INFO -- : 0:  jquery-rails (4.3.3) from /Library/Ruby/Gems/2.3.0/specifications/jquery-rails-4.3.3.gemspec
+E, [2018-05-31T16:04:18.127863 #17650] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    current directory: /Library/Ruby/Gems/2.3.0/gems/pg-1.0.0/ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20180531-17650-1lebkg4.rb extconf.rb 
+checking for pg_config... yes
+Using config values from /usr/local/bin/pg_config
+checking for libpq-fe.h... yes
+checking for libpq/libpq-fs.h... yes
+checking for pg_config_manual.h... yes
+checking for PQconnectdb() in -lpq... no
+checking for PQconnectdb() in -llibpq... no
+checking for PQconnectdb() in -lms/libpq... no
+Can't find the PostgreSQL client library (libpq)
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/$(RUBY_BASE_NAME)
+	--with-pg
+	--without-pg
+	--enable-windows-cross
+	--disable-windows-cross
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+	--with-pqlib
+	--without-pqlib
+	--with-libpqlib
+	--without-libpqlib
+	--with-ms/libpqlib
+	--without-ms/libpqlib
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /Library/Ruby/Gems/2.3.0/extensions/universal-darwin-17/2.3.0/pg-1.0.0/mkmf.log
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Library/Ruby/Gems/2.3.0/gems/pg-1.0.0 for inspection.
+Results logged to /Library/Ruby/Gems/2.3.0/extensions/universal-darwin-17/2.3.0/pg-1.0.0/gem_make.out
+
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:92:in `run'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:48:in `block in build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/tempfile.rb:295:in `open'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:31:in `build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:164:in `block (2 levels) in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `chdir'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `block in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `synchronize'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:201:in `block in build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:748:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:297:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/usr/local/bin/bundle:22:in `load'  \n/usr/local/bin/bundle:22:in `<main>'
+I, [2018-05-31T16:09:38.155823 #19130]  INFO -- : 0:  rake (12.3.1) from /Library/Ruby/Gems/2.3.0/specifications/rake-12.3.1.gemspec
+I, [2018-05-31T16:09:38.156116 #19130]  INFO -- : 0:  concurrent-ruby (1.0.5) from /Library/Ruby/Gems/2.3.0/specifications/concurrent-ruby-1.0.5.gemspec
+I, [2018-05-31T16:09:38.156341 #19130]  INFO -- : 0:  i18n (1.0.1) from /Library/Ruby/Gems/2.3.0/specifications/i18n-1.0.1.gemspec
+I, [2018-05-31T16:09:38.156545 #19130]  INFO -- : 0:  minitest (5.11.3) from /Library/Ruby/Gems/2.3.0/specifications/minitest-5.11.3.gemspec
+I, [2018-05-31T16:09:38.156759 #19130]  INFO -- : 0:  thread_safe (0.3.6) from /Library/Ruby/Gems/2.3.0/specifications/thread_safe-0.3.6.gemspec
+I, [2018-05-31T16:09:38.156973 #19130]  INFO -- : 0:  tzinfo (1.2.5) from /Library/Ruby/Gems/2.3.0/specifications/tzinfo-1.2.5.gemspec
+I, [2018-05-31T16:09:38.157176 #19130]  INFO -- : 0:  activesupport (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activesupport-5.2.0.gemspec
+I, [2018-05-31T16:09:38.157383 #19130]  INFO -- : 0:  builder (3.2.3) from /Library/Ruby/Gems/2.3.0/specifications/builder-3.2.3.gemspec
+I, [2018-05-31T16:09:38.157584 #19130]  INFO -- : 0:  erubi (1.7.1) from /Library/Ruby/Gems/2.3.0/specifications/erubi-1.7.1.gemspec
+I, [2018-05-31T16:09:38.157778 #19130]  INFO -- : 0:  mini_portile2 (2.3.0) from /Library/Ruby/Gems/2.3.0/specifications/mini_portile2-2.3.0.gemspec
+I, [2018-05-31T16:09:38.157997 #19130]  INFO -- : 0:  nokogiri (1.8.2) from /Library/Ruby/Gems/2.3.0/specifications/nokogiri-1.8.2.gemspec
+I, [2018-05-31T16:09:38.158263 #19130]  INFO -- : 0:  rails-dom-testing (2.0.3) from /Library/Ruby/Gems/2.3.0/specifications/rails-dom-testing-2.0.3.gemspec
+I, [2018-05-31T16:09:38.158694 #19130]  INFO -- : 0:  crass (1.0.4) from /Library/Ruby/Gems/2.3.0/specifications/crass-1.0.4.gemspec
+I, [2018-05-31T16:09:38.159015 #19130]  INFO -- : 0:  loofah (2.2.2) from /Library/Ruby/Gems/2.3.0/specifications/loofah-2.2.2.gemspec
+I, [2018-05-31T16:09:38.159251 #19130]  INFO -- : 0:  rails-html-sanitizer (1.0.4) from /Library/Ruby/Gems/2.3.0/specifications/rails-html-sanitizer-1.0.4.gemspec
+I, [2018-05-31T16:09:38.159470 #19130]  INFO -- : 0:  actionview (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionview-5.2.0.gemspec
+I, [2018-05-31T16:09:38.159698 #19130]  INFO -- : 0:  rack (2.0.5) from /Library/Ruby/Gems/2.3.0/specifications/rack-2.0.5.gemspec
+I, [2018-05-31T16:09:38.159900 #19130]  INFO -- : 0:  rack-test (1.0.0) from /Library/Ruby/Gems/2.3.0/specifications/rack-test-1.0.0.gemspec
+I, [2018-05-31T16:09:38.160110 #19130]  INFO -- : 0:  actionpack (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionpack-5.2.0.gemspec
+I, [2018-05-31T16:09:38.160303 #19130]  INFO -- : 0:  nio4r (2.3.1) from /Library/Ruby/Gems/2.3.0/specifications/nio4r-2.3.1.gemspec
+I, [2018-05-31T16:09:38.160525 #19130]  INFO -- : 0:  websocket-extensions (0.1.3) from /Library/Ruby/Gems/2.3.0/specifications/websocket-extensions-0.1.3.gemspec
+I, [2018-05-31T16:09:38.160726 #19130]  INFO -- : 0:  websocket-driver (0.7.0) from /Library/Ruby/Gems/2.3.0/specifications/websocket-driver-0.7.0.gemspec
+I, [2018-05-31T16:09:38.160949 #19130]  INFO -- : 0:  actioncable (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actioncable-5.2.0.gemspec
+I, [2018-05-31T16:09:38.161148 #19130]  INFO -- : 0:  globalid (0.4.1) from /Library/Ruby/Gems/2.3.0/specifications/globalid-0.4.1.gemspec
+I, [2018-05-31T16:09:38.161356 #19130]  INFO -- : 0:  activejob (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activejob-5.2.0.gemspec
+I, [2018-05-31T16:09:38.161544 #19130]  INFO -- : 0:  mini_mime (1.0.0) from /Library/Ruby/Gems/2.3.0/specifications/mini_mime-1.0.0.gemspec
+I, [2018-05-31T16:09:38.161758 #19130]  INFO -- : 0:  mail (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/mail-2.7.0.gemspec
+I, [2018-05-31T16:09:38.161956 #19130]  INFO -- : 0:  actionmailer (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionmailer-5.2.0.gemspec
+I, [2018-05-31T16:09:38.162162 #19130]  INFO -- : 0:  activemodel (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activemodel-5.2.0.gemspec
+I, [2018-05-31T16:09:38.162364 #19130]  INFO -- : 0:  arel (9.0.0) from /Library/Ruby/Gems/2.3.0/specifications/arel-9.0.0.gemspec
+I, [2018-05-31T16:09:38.162573 #19130]  INFO -- : 0:  activerecord (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-5.2.0.gemspec
+I, [2018-05-31T16:09:38.162780 #19130]  INFO -- : 0:  activerecord-oracle_enhanced-adapter (1.4.3) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-oracle_enhanced-adapter-1.4.3.gemspec
+I, [2018-05-31T16:09:38.162987 #19130]  INFO -- : 0:  mimemagic (0.3.2) from /Library/Ruby/Gems/2.3.0/specifications/mimemagic-0.3.2.gemspec
+I, [2018-05-31T16:09:38.163179 #19130]  INFO -- : 0:  marcel (0.3.2) from /Library/Ruby/Gems/2.3.0/specifications/marcel-0.3.2.gemspec
+I, [2018-05-31T16:09:38.163383 #19130]  INFO -- : 0:  activestorage (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activestorage-5.2.0.gemspec
+I, [2018-05-31T16:09:38.163598 #19130]  INFO -- : 0:  bcrypt (3.1.12) from /Library/Ruby/Gems/2.3.0/specifications/bcrypt-3.1.12.gemspec
+I, [2018-05-31T16:09:38.163781 #19130]  INFO -- : 0:  bundler (1.5.1) from /Library/Ruby/Gems/2.3.0/specifications/bundler-1.5.1.gemspec
+I, [2018-05-31T16:09:38.164023 #19130]  INFO -- : 0:  coffee-script-source (1.12.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-source-1.12.2.gemspec
+I, [2018-05-31T16:09:38.164287 #19130]  INFO -- : 0:  execjs (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/execjs-2.7.0.gemspec
+I, [2018-05-31T16:09:38.164523 #19130]  INFO -- : 0:  coffee-script (2.4.1) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-2.4.1.gemspec
+I, [2018-05-31T16:09:38.164744 #19130]  INFO -- : 0:  method_source (0.9.0) from /Library/Ruby/Gems/2.3.0/specifications/method_source-0.9.0.gemspec
+I, [2018-05-31T16:09:38.164965 #19130]  INFO -- : 0:  thor (0.20.0) from /Library/Ruby/Gems/2.3.0/specifications/thor-0.20.0.gemspec
+I, [2018-05-31T16:09:38.165150 #19130]  INFO -- : 0:  railties (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/railties-5.2.0.gemspec
+I, [2018-05-31T16:09:38.165342 #19130]  INFO -- : 0:  coffee-rails (4.2.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-rails-4.2.2.gemspec
+I, [2018-05-31T16:09:38.165665 #19130]  INFO -- : 0:  orm_adapter (0.5.0) from /Library/Ruby/Gems/2.3.0/specifications/orm_adapter-0.5.0.gemspec
+I, [2018-05-31T16:09:38.168125 #19130]  INFO -- : 0:  responders (2.4.0) from /Library/Ruby/Gems/2.3.0/specifications/responders-2.4.0.gemspec
+I, [2018-05-31T16:09:38.168659 #19130]  INFO -- : 0:  warden (1.2.7) from /Library/Ruby/Gems/2.3.0/specifications/warden-1.2.7.gemspec
+I, [2018-05-31T16:09:38.169024 #19130]  INFO -- : 0:  devise (4.4.3) from /Library/Ruby/Gems/2.3.0/specifications/devise-4.4.3.gemspec
+I, [2018-05-31T16:09:38.169312 #19130]  INFO -- : 0:  ffi (1.9.23) from /Library/Ruby/Gems/2.3.0/specifications/ffi-1.9.23.gemspec
+I, [2018-05-31T16:09:38.169609 #19130]  INFO -- : 0:  temple (0.8.0) from /Library/Ruby/Gems/2.3.0/specifications/temple-0.8.0.gemspec
+I, [2018-05-31T16:09:38.170422 #19130]  INFO -- : 0:  tilt (2.0.8) from /Library/Ruby/Gems/2.3.0/specifications/tilt-2.0.8.gemspec
+I, [2018-05-31T16:09:38.170798 #19130]  INFO -- : 0:  haml (5.0.4) from /Library/Ruby/Gems/2.3.0/specifications/haml-5.0.4.gemspec
+I, [2018-05-31T16:09:38.171108 #19130]  INFO -- : 0:  jquery-rails (4.3.3) from /Library/Ruby/Gems/2.3.0/specifications/jquery-rails-4.3.3.gemspec
+E, [2018-05-31T16:09:39.777876 #19130] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    current directory: /Library/Ruby/Gems/2.3.0/gems/pg-1.0.0/ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20180531-19130-1yrg17b.rb extconf.rb 
+checking for pg_config... yes
+Using config values from /usr/local/bin/pg_config
+checking for libpq-fe.h... yes
+checking for libpq/libpq-fs.h... yes
+checking for pg_config_manual.h... yes
+checking for PQconnectdb() in -lpq... no
+checking for PQconnectdb() in -llibpq... no
+checking for PQconnectdb() in -lms/libpq... no
+Can't find the PostgreSQL client library (libpq)
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/$(RUBY_BASE_NAME)
+	--with-pg
+	--without-pg
+	--enable-windows-cross
+	--disable-windows-cross
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+	--with-pqlib
+	--without-pqlib
+	--with-libpqlib
+	--without-libpqlib
+	--with-ms/libpqlib
+	--without-ms/libpqlib
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /Library/Ruby/Gems/2.3.0/extensions/universal-darwin-17/2.3.0/pg-1.0.0/mkmf.log
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Library/Ruby/Gems/2.3.0/gems/pg-1.0.0 for inspection.
+Results logged to /Library/Ruby/Gems/2.3.0/extensions/universal-darwin-17/2.3.0/pg-1.0.0/gem_make.out
+
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:92:in `run'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:48:in `block in build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/tempfile.rb:295:in `open'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:31:in `build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:164:in `block (2 levels) in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `chdir'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `block in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `synchronize'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:201:in `block in build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:748:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:297:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/usr/local/bin/bundle:22:in `load'  \n/usr/local/bin/bundle:22:in `<main>'
+I, [2018-05-31T16:13:59.590722 #20865]  INFO -- : 0:  rake (12.3.1) from /Library/Ruby/Gems/2.3.0/specifications/rake-12.3.1.gemspec
+I, [2018-05-31T16:13:59.591550 #20865]  INFO -- : 0:  concurrent-ruby (1.0.5) from /Library/Ruby/Gems/2.3.0/specifications/concurrent-ruby-1.0.5.gemspec
+I, [2018-05-31T16:13:59.591914 #20865]  INFO -- : 0:  i18n (1.0.1) from /Library/Ruby/Gems/2.3.0/specifications/i18n-1.0.1.gemspec
+I, [2018-05-31T16:13:59.592320 #20865]  INFO -- : 0:  minitest (5.11.3) from /Library/Ruby/Gems/2.3.0/specifications/minitest-5.11.3.gemspec
+I, [2018-05-31T16:13:59.592703 #20865]  INFO -- : 0:  thread_safe (0.3.6) from /Library/Ruby/Gems/2.3.0/specifications/thread_safe-0.3.6.gemspec
+I, [2018-05-31T16:13:59.592979 #20865]  INFO -- : 0:  tzinfo (1.2.5) from /Library/Ruby/Gems/2.3.0/specifications/tzinfo-1.2.5.gemspec
+I, [2018-05-31T16:13:59.593233 #20865]  INFO -- : 0:  activesupport (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activesupport-5.2.0.gemspec
+I, [2018-05-31T16:13:59.593486 #20865]  INFO -- : 0:  builder (3.2.3) from /Library/Ruby/Gems/2.3.0/specifications/builder-3.2.3.gemspec
+I, [2018-05-31T16:13:59.593762 #20865]  INFO -- : 0:  erubi (1.7.1) from /Library/Ruby/Gems/2.3.0/specifications/erubi-1.7.1.gemspec
+I, [2018-05-31T16:13:59.594006 #20865]  INFO -- : 0:  mini_portile2 (2.3.0) from /Library/Ruby/Gems/2.3.0/specifications/mini_portile2-2.3.0.gemspec
+I, [2018-05-31T16:13:59.594249 #20865]  INFO -- : 0:  nokogiri (1.8.2) from /Library/Ruby/Gems/2.3.0/specifications/nokogiri-1.8.2.gemspec
+I, [2018-05-31T16:13:59.594496 #20865]  INFO -- : 0:  rails-dom-testing (2.0.3) from /Library/Ruby/Gems/2.3.0/specifications/rails-dom-testing-2.0.3.gemspec
+I, [2018-05-31T16:13:59.594751 #20865]  INFO -- : 0:  crass (1.0.4) from /Library/Ruby/Gems/2.3.0/specifications/crass-1.0.4.gemspec
+I, [2018-05-31T16:13:59.594963 #20865]  INFO -- : 0:  loofah (2.2.2) from /Library/Ruby/Gems/2.3.0/specifications/loofah-2.2.2.gemspec
+I, [2018-05-31T16:13:59.595220 #20865]  INFO -- : 0:  rails-html-sanitizer (1.0.4) from /Library/Ruby/Gems/2.3.0/specifications/rails-html-sanitizer-1.0.4.gemspec
+I, [2018-05-31T16:13:59.595464 #20865]  INFO -- : 0:  actionview (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionview-5.2.0.gemspec
+I, [2018-05-31T16:13:59.595731 #20865]  INFO -- : 0:  rack (2.0.5) from /Library/Ruby/Gems/2.3.0/specifications/rack-2.0.5.gemspec
+I, [2018-05-31T16:13:59.595975 #20865]  INFO -- : 0:  rack-test (1.0.0) from /Library/Ruby/Gems/2.3.0/specifications/rack-test-1.0.0.gemspec
+I, [2018-05-31T16:13:59.596207 #20865]  INFO -- : 0:  actionpack (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionpack-5.2.0.gemspec
+I, [2018-05-31T16:13:59.596435 #20865]  INFO -- : 0:  nio4r (2.3.1) from /Library/Ruby/Gems/2.3.0/specifications/nio4r-2.3.1.gemspec
+I, [2018-05-31T16:13:59.596677 #20865]  INFO -- : 0:  websocket-extensions (0.1.3) from /Library/Ruby/Gems/2.3.0/specifications/websocket-extensions-0.1.3.gemspec
+I, [2018-05-31T16:13:59.596976 #20865]  INFO -- : 0:  websocket-driver (0.7.0) from /Library/Ruby/Gems/2.3.0/specifications/websocket-driver-0.7.0.gemspec
+I, [2018-05-31T16:13:59.597740 #20865]  INFO -- : 0:  actioncable (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actioncable-5.2.0.gemspec
+I, [2018-05-31T16:13:59.597983 #20865]  INFO -- : 0:  globalid (0.4.1) from /Library/Ruby/Gems/2.3.0/specifications/globalid-0.4.1.gemspec
+I, [2018-05-31T16:13:59.598224 #20865]  INFO -- : 0:  activejob (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activejob-5.2.0.gemspec
+I, [2018-05-31T16:13:59.598466 #20865]  INFO -- : 0:  mini_mime (1.0.0) from /Library/Ruby/Gems/2.3.0/specifications/mini_mime-1.0.0.gemspec
+I, [2018-05-31T16:13:59.598701 #20865]  INFO -- : 0:  mail (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/mail-2.7.0.gemspec
+I, [2018-05-31T16:13:59.598931 #20865]  INFO -- : 0:  actionmailer (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionmailer-5.2.0.gemspec
+I, [2018-05-31T16:13:59.599188 #20865]  INFO -- : 0:  activemodel (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activemodel-5.2.0.gemspec
+I, [2018-05-31T16:13:59.599403 #20865]  INFO -- : 0:  arel (9.0.0) from /Library/Ruby/Gems/2.3.0/specifications/arel-9.0.0.gemspec
+I, [2018-05-31T16:13:59.599642 #20865]  INFO -- : 0:  activerecord (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-5.2.0.gemspec
+I, [2018-05-31T16:13:59.599886 #20865]  INFO -- : 0:  activerecord-oracle_enhanced-adapter (1.4.3) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-oracle_enhanced-adapter-1.4.3.gemspec
+I, [2018-05-31T16:13:59.600113 #20865]  INFO -- : 0:  mimemagic (0.3.2) from /Library/Ruby/Gems/2.3.0/specifications/mimemagic-0.3.2.gemspec
+I, [2018-05-31T16:13:59.600336 #20865]  INFO -- : 0:  marcel (0.3.2) from /Library/Ruby/Gems/2.3.0/specifications/marcel-0.3.2.gemspec
+I, [2018-05-31T16:13:59.600600 #20865]  INFO -- : 0:  activestorage (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activestorage-5.2.0.gemspec
+I, [2018-05-31T16:13:59.600823 #20865]  INFO -- : 0:  bcrypt (3.1.12) from /Library/Ruby/Gems/2.3.0/specifications/bcrypt-3.1.12.gemspec
+I, [2018-05-31T16:13:59.601019 #20865]  INFO -- : 0:  bundler (1.5.1) from /Library/Ruby/Gems/2.3.0/specifications/bundler-1.5.1.gemspec
+I, [2018-05-31T16:13:59.601256 #20865]  INFO -- : 0:  coffee-script-source (1.12.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-source-1.12.2.gemspec
+I, [2018-05-31T16:13:59.601525 #20865]  INFO -- : 0:  execjs (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/execjs-2.7.0.gemspec
+I, [2018-05-31T16:13:59.601759 #20865]  INFO -- : 0:  coffee-script (2.4.1) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-2.4.1.gemspec
+I, [2018-05-31T16:13:59.601999 #20865]  INFO -- : 0:  method_source (0.9.0) from /Library/Ruby/Gems/2.3.0/specifications/method_source-0.9.0.gemspec
+I, [2018-05-31T16:13:59.602241 #20865]  INFO -- : 0:  thor (0.20.0) from /Library/Ruby/Gems/2.3.0/specifications/thor-0.20.0.gemspec
+I, [2018-05-31T16:13:59.602489 #20865]  INFO -- : 0:  railties (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/railties-5.2.0.gemspec
+I, [2018-05-31T16:13:59.602725 #20865]  INFO -- : 0:  coffee-rails (4.2.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-rails-4.2.2.gemspec
+I, [2018-05-31T16:13:59.602984 #20865]  INFO -- : 0:  orm_adapter (0.5.0) from /Library/Ruby/Gems/2.3.0/specifications/orm_adapter-0.5.0.gemspec
+I, [2018-05-31T16:13:59.603227 #20865]  INFO -- : 0:  responders (2.4.0) from /Library/Ruby/Gems/2.3.0/specifications/responders-2.4.0.gemspec
+I, [2018-05-31T16:13:59.603487 #20865]  INFO -- : 0:  warden (1.2.7) from /Library/Ruby/Gems/2.3.0/specifications/warden-1.2.7.gemspec
+I, [2018-05-31T16:13:59.603716 #20865]  INFO -- : 0:  devise (4.4.3) from /Library/Ruby/Gems/2.3.0/specifications/devise-4.4.3.gemspec
+I, [2018-05-31T16:13:59.603961 #20865]  INFO -- : 0:  ffi (1.9.23) from /Library/Ruby/Gems/2.3.0/specifications/ffi-1.9.23.gemspec
+I, [2018-05-31T16:13:59.604200 #20865]  INFO -- : 0:  temple (0.8.0) from /Library/Ruby/Gems/2.3.0/specifications/temple-0.8.0.gemspec
+I, [2018-05-31T16:13:59.604443 #20865]  INFO -- : 0:  tilt (2.0.8) from /Library/Ruby/Gems/2.3.0/specifications/tilt-2.0.8.gemspec
+I, [2018-05-31T16:13:59.604698 #20865]  INFO -- : 0:  haml (5.0.4) from /Library/Ruby/Gems/2.3.0/specifications/haml-5.0.4.gemspec
+I, [2018-05-31T16:13:59.605010 #20865]  INFO -- : 0:  jquery-rails (4.3.3) from /Library/Ruby/Gems/2.3.0/specifications/jquery-rails-4.3.3.gemspec
+E, [2018-05-31T16:14:01.023932 #20865] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    current directory: /Library/Ruby/Gems/2.3.0/gems/pg-1.0.0/ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20180531-20865-vsuvsz.rb extconf.rb 
+checking for pg_config... yes
+Using config values from /usr/local/bin/pg_config
+checking for libpq-fe.h... yes
+checking for libpq/libpq-fs.h... yes
+checking for pg_config_manual.h... yes
+checking for PQconnectdb() in -lpq... no
+checking for PQconnectdb() in -llibpq... no
+checking for PQconnectdb() in -lms/libpq... no
+Can't find the PostgreSQL client library (libpq)
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/$(RUBY_BASE_NAME)
+	--with-pg
+	--without-pg
+	--enable-windows-cross
+	--disable-windows-cross
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+	--with-pqlib
+	--without-pqlib
+	--with-libpqlib
+	--without-libpqlib
+	--with-ms/libpqlib
+	--without-ms/libpqlib
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /Library/Ruby/Gems/2.3.0/extensions/universal-darwin-17/2.3.0/pg-1.0.0/mkmf.log
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Library/Ruby/Gems/2.3.0/gems/pg-1.0.0 for inspection.
+Results logged to /Library/Ruby/Gems/2.3.0/extensions/universal-darwin-17/2.3.0/pg-1.0.0/gem_make.out
+
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:92:in `run'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:48:in `block in build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/tempfile.rb:295:in `open'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:31:in `build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:164:in `block (2 levels) in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `chdir'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `block in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `synchronize'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:201:in `block in build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:748:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:297:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `block in <main>'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `<main>'
+I, [2018-05-31T16:20:53.628823 #21846]  INFO -- : 0:  rake (12.3.1) from /Library/Ruby/Gems/2.3.0/specifications/rake-12.3.1.gemspec
+I, [2018-05-31T16:20:53.629639 #21846]  INFO -- : 0:  concurrent-ruby (1.0.5) from /Library/Ruby/Gems/2.3.0/specifications/concurrent-ruby-1.0.5.gemspec
+I, [2018-05-31T16:20:53.630056 #21846]  INFO -- : 0:  i18n (1.0.1) from /Library/Ruby/Gems/2.3.0/specifications/i18n-1.0.1.gemspec
+I, [2018-05-31T16:20:53.630495 #21846]  INFO -- : 0:  minitest (5.11.3) from /Library/Ruby/Gems/2.3.0/specifications/minitest-5.11.3.gemspec
+I, [2018-05-31T16:20:53.630763 #21846]  INFO -- : 0:  thread_safe (0.3.6) from /Library/Ruby/Gems/2.3.0/specifications/thread_safe-0.3.6.gemspec
+I, [2018-05-31T16:20:53.631044 #21846]  INFO -- : 0:  tzinfo (1.2.5) from /Library/Ruby/Gems/2.3.0/specifications/tzinfo-1.2.5.gemspec
+I, [2018-05-31T16:20:53.631322 #21846]  INFO -- : 0:  activesupport (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activesupport-5.2.0.gemspec
+I, [2018-05-31T16:20:53.631613 #21846]  INFO -- : 0:  builder (3.2.3) from /Library/Ruby/Gems/2.3.0/specifications/builder-3.2.3.gemspec
+I, [2018-05-31T16:20:53.631885 #21846]  INFO -- : 0:  erubi (1.7.1) from /Library/Ruby/Gems/2.3.0/specifications/erubi-1.7.1.gemspec
+I, [2018-05-31T16:20:53.632180 #21846]  INFO -- : 0:  mini_portile2 (2.3.0) from /Library/Ruby/Gems/2.3.0/specifications/mini_portile2-2.3.0.gemspec
+I, [2018-05-31T16:20:53.632513 #21846]  INFO -- : 0:  nokogiri (1.8.2) from /Library/Ruby/Gems/2.3.0/specifications/nokogiri-1.8.2.gemspec
+I, [2018-05-31T16:20:53.632784 #21846]  INFO -- : 0:  rails-dom-testing (2.0.3) from /Library/Ruby/Gems/2.3.0/specifications/rails-dom-testing-2.0.3.gemspec
+I, [2018-05-31T16:20:53.633106 #21846]  INFO -- : 0:  crass (1.0.4) from /Library/Ruby/Gems/2.3.0/specifications/crass-1.0.4.gemspec
+I, [2018-05-31T16:20:53.633422 #21846]  INFO -- : 0:  loofah (2.2.2) from /Library/Ruby/Gems/2.3.0/specifications/loofah-2.2.2.gemspec
+I, [2018-05-31T16:20:53.633735 #21846]  INFO -- : 0:  rails-html-sanitizer (1.0.4) from /Library/Ruby/Gems/2.3.0/specifications/rails-html-sanitizer-1.0.4.gemspec
+I, [2018-05-31T16:20:53.634053 #21846]  INFO -- : 0:  actionview (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionview-5.2.0.gemspec
+I, [2018-05-31T16:20:53.634335 #21846]  INFO -- : 0:  rack (2.0.5) from /Library/Ruby/Gems/2.3.0/specifications/rack-2.0.5.gemspec
+I, [2018-05-31T16:20:53.634606 #21846]  INFO -- : 0:  rack-test (1.0.0) from /Library/Ruby/Gems/2.3.0/specifications/rack-test-1.0.0.gemspec
+I, [2018-05-31T16:20:53.634905 #21846]  INFO -- : 0:  actionpack (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionpack-5.2.0.gemspec
+I, [2018-05-31T16:20:53.635166 #21846]  INFO -- : 0:  nio4r (2.3.1) from /Library/Ruby/Gems/2.3.0/specifications/nio4r-2.3.1.gemspec
+I, [2018-05-31T16:20:53.635453 #21846]  INFO -- : 0:  websocket-extensions (0.1.3) from /Library/Ruby/Gems/2.3.0/specifications/websocket-extensions-0.1.3.gemspec
+I, [2018-05-31T16:20:53.635715 #21846]  INFO -- : 0:  websocket-driver (0.7.0) from /Library/Ruby/Gems/2.3.0/specifications/websocket-driver-0.7.0.gemspec
+I, [2018-05-31T16:20:53.636000 #21846]  INFO -- : 0:  actioncable (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actioncable-5.2.0.gemspec
+I, [2018-05-31T16:20:53.636231 #21846]  INFO -- : 0:  globalid (0.4.1) from /Library/Ruby/Gems/2.3.0/specifications/globalid-0.4.1.gemspec
+I, [2018-05-31T16:20:53.636494 #21846]  INFO -- : 0:  activejob (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activejob-5.2.0.gemspec
+I, [2018-05-31T16:20:53.636725 #21846]  INFO -- : 0:  mini_mime (1.0.0) from /Library/Ruby/Gems/2.3.0/specifications/mini_mime-1.0.0.gemspec
+I, [2018-05-31T16:20:53.636982 #21846]  INFO -- : 0:  mail (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/mail-2.7.0.gemspec
+I, [2018-05-31T16:20:53.637217 #21846]  INFO -- : 0:  actionmailer (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionmailer-5.2.0.gemspec
+I, [2018-05-31T16:20:53.637474 #21846]  INFO -- : 0:  activemodel (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activemodel-5.2.0.gemspec
+I, [2018-05-31T16:20:53.637704 #21846]  INFO -- : 0:  arel (9.0.0) from /Library/Ruby/Gems/2.3.0/specifications/arel-9.0.0.gemspec
+I, [2018-05-31T16:20:53.637958 #21846]  INFO -- : 0:  activerecord (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-5.2.0.gemspec
+I, [2018-05-31T16:20:53.638189 #21846]  INFO -- : 0:  activerecord-oracle_enhanced-adapter (1.4.3) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-oracle_enhanced-adapter-1.4.3.gemspec
+I, [2018-05-31T16:20:53.638437 #21846]  INFO -- : 0:  mimemagic (0.3.2) from /Library/Ruby/Gems/2.3.0/specifications/mimemagic-0.3.2.gemspec
+I, [2018-05-31T16:20:53.638664 #21846]  INFO -- : 0:  marcel (0.3.2) from /Library/Ruby/Gems/2.3.0/specifications/marcel-0.3.2.gemspec
+I, [2018-05-31T16:20:53.638915 #21846]  INFO -- : 0:  activestorage (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activestorage-5.2.0.gemspec
+I, [2018-05-31T16:20:53.639166 #21846]  INFO -- : 0:  bcrypt (3.1.12) from /Library/Ruby/Gems/2.3.0/specifications/bcrypt-3.1.12.gemspec
+I, [2018-05-31T16:20:53.639382 #21846]  INFO -- : 0:  bundler (1.5.1) from /Library/Ruby/Gems/2.3.0/specifications/bundler-1.5.1.gemspec
+I, [2018-05-31T16:20:53.639628 #21846]  INFO -- : 0:  coffee-script-source (1.12.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-source-1.12.2.gemspec
+I, [2018-05-31T16:20:53.639868 #21846]  INFO -- : 0:  execjs (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/execjs-2.7.0.gemspec
+I, [2018-05-31T16:20:53.640132 #21846]  INFO -- : 0:  coffee-script (2.4.1) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-2.4.1.gemspec
+I, [2018-05-31T16:20:53.640369 #21846]  INFO -- : 0:  method_source (0.9.0) from /Library/Ruby/Gems/2.3.0/specifications/method_source-0.9.0.gemspec
+I, [2018-05-31T16:20:53.640640 #21846]  INFO -- : 0:  thor (0.20.0) from /Library/Ruby/Gems/2.3.0/specifications/thor-0.20.0.gemspec
+I, [2018-05-31T16:20:53.640892 #21846]  INFO -- : 0:  railties (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/railties-5.2.0.gemspec
+I, [2018-05-31T16:20:53.641203 #21846]  INFO -- : 0:  coffee-rails (4.2.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-rails-4.2.2.gemspec
+I, [2018-05-31T16:20:53.641471 #21846]  INFO -- : 0:  orm_adapter (0.5.0) from /Library/Ruby/Gems/2.3.0/specifications/orm_adapter-0.5.0.gemspec
+I, [2018-05-31T16:20:53.641741 #21846]  INFO -- : 0:  responders (2.4.0) from /Library/Ruby/Gems/2.3.0/specifications/responders-2.4.0.gemspec
+I, [2018-05-31T16:20:53.642769 #21846]  INFO -- : 0:  warden (1.2.7) from /Library/Ruby/Gems/2.3.0/specifications/warden-1.2.7.gemspec
+I, [2018-05-31T16:20:53.643316 #21846]  INFO -- : 0:  devise (4.4.3) from /Library/Ruby/Gems/2.3.0/specifications/devise-4.4.3.gemspec
+I, [2018-05-31T16:20:53.643600 #21846]  INFO -- : 0:  ffi (1.9.23) from /Library/Ruby/Gems/2.3.0/specifications/ffi-1.9.23.gemspec
+I, [2018-05-31T16:20:53.643858 #21846]  INFO -- : 0:  temple (0.8.0) from /Library/Ruby/Gems/2.3.0/specifications/temple-0.8.0.gemspec
+I, [2018-05-31T16:20:53.644125 #21846]  INFO -- : 0:  tilt (2.0.8) from /Library/Ruby/Gems/2.3.0/specifications/tilt-2.0.8.gemspec
+I, [2018-05-31T16:20:53.644359 #21846]  INFO -- : 0:  haml (5.0.4) from /Library/Ruby/Gems/2.3.0/specifications/haml-5.0.4.gemspec
+I, [2018-05-31T16:20:53.644597 #21846]  INFO -- : 0:  jquery-rails (4.3.3) from /Library/Ruby/Gems/2.3.0/specifications/jquery-rails-4.3.3.gemspec
+E, [2018-05-31T16:20:55.085333 #21846] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    current directory: /Library/Ruby/Gems/2.3.0/gems/pg-1.0.0/ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20180531-21846-1yubowj.rb extconf.rb 
+checking for pg_config... yes
+Using config values from /usr/local/bin/pg_config
+checking for libpq-fe.h... yes
+checking for libpq/libpq-fs.h... yes
+checking for pg_config_manual.h... yes
+checking for PQconnectdb() in -lpq... no
+checking for PQconnectdb() in -llibpq... no
+checking for PQconnectdb() in -lms/libpq... no
+Can't find the PostgreSQL client library (libpq)
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/$(RUBY_BASE_NAME)
+	--with-pg
+	--without-pg
+	--enable-windows-cross
+	--disable-windows-cross
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+	--with-pqlib
+	--without-pqlib
+	--with-libpqlib
+	--without-libpqlib
+	--with-ms/libpqlib
+	--without-ms/libpqlib
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /Library/Ruby/Gems/2.3.0/extensions/universal-darwin-17/2.3.0/pg-1.0.0/mkmf.log
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Library/Ruby/Gems/2.3.0/gems/pg-1.0.0 for inspection.
+Results logged to /Library/Ruby/Gems/2.3.0/extensions/universal-darwin-17/2.3.0/pg-1.0.0/gem_make.out
+
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:92:in `run'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:48:in `block in build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/tempfile.rb:295:in `open'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:31:in `build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:164:in `block (2 levels) in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `chdir'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `block in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `synchronize'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:201:in `block in build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:748:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:297:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/usr/local/bin/bundle:22:in `load'  \n/usr/local/bin/bundle:22:in `<main>'
+I, [2018-05-31T16:26:17.992379 #23172]  INFO -- : 0:  rake (12.3.1) from /Library/Ruby/Gems/2.3.0/specifications/rake-12.3.1.gemspec
+I, [2018-05-31T16:26:17.992652 #23172]  INFO -- : 0:  concurrent-ruby (1.0.5) from /Library/Ruby/Gems/2.3.0/specifications/concurrent-ruby-1.0.5.gemspec
+I, [2018-05-31T16:26:17.992898 #23172]  INFO -- : 0:  i18n (1.0.1) from /Library/Ruby/Gems/2.3.0/specifications/i18n-1.0.1.gemspec
+I, [2018-05-31T16:26:17.993159 #23172]  INFO -- : 0:  minitest (5.11.3) from /Library/Ruby/Gems/2.3.0/specifications/minitest-5.11.3.gemspec
+I, [2018-05-31T16:26:17.993414 #23172]  INFO -- : 0:  thread_safe (0.3.6) from /Library/Ruby/Gems/2.3.0/specifications/thread_safe-0.3.6.gemspec
+I, [2018-05-31T16:26:17.993635 #23172]  INFO -- : 0:  tzinfo (1.2.5) from /Library/Ruby/Gems/2.3.0/specifications/tzinfo-1.2.5.gemspec
+I, [2018-05-31T16:26:17.993880 #23172]  INFO -- : 0:  activesupport (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activesupport-5.2.0.gemspec
+I, [2018-05-31T16:26:17.994148 #23172]  INFO -- : 0:  builder (3.2.3) from /Library/Ruby/Gems/2.3.0/specifications/builder-3.2.3.gemspec
+I, [2018-05-31T16:26:17.994380 #23172]  INFO -- : 0:  erubi (1.7.1) from /Library/Ruby/Gems/2.3.0/specifications/erubi-1.7.1.gemspec
+I, [2018-05-31T16:26:17.994603 #23172]  INFO -- : 0:  mini_portile2 (2.3.0) from /Library/Ruby/Gems/2.3.0/specifications/mini_portile2-2.3.0.gemspec
+I, [2018-05-31T16:26:17.994865 #23172]  INFO -- : 0:  nokogiri (1.8.2) from /Library/Ruby/Gems/2.3.0/specifications/nokogiri-1.8.2.gemspec
+I, [2018-05-31T16:26:17.995080 #23172]  INFO -- : 0:  rails-dom-testing (2.0.3) from /Library/Ruby/Gems/2.3.0/specifications/rails-dom-testing-2.0.3.gemspec
+I, [2018-05-31T16:26:17.995355 #23172]  INFO -- : 0:  crass (1.0.4) from /Library/Ruby/Gems/2.3.0/specifications/crass-1.0.4.gemspec
+I, [2018-05-31T16:26:17.995596 #23172]  INFO -- : 0:  loofah (2.2.2) from /Library/Ruby/Gems/2.3.0/specifications/loofah-2.2.2.gemspec
+I, [2018-05-31T16:26:17.995831 #23172]  INFO -- : 0:  rails-html-sanitizer (1.0.4) from /Library/Ruby/Gems/2.3.0/specifications/rails-html-sanitizer-1.0.4.gemspec
+I, [2018-05-31T16:26:17.996056 #23172]  INFO -- : 0:  actionview (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionview-5.2.0.gemspec
+I, [2018-05-31T16:26:17.996320 #23172]  INFO -- : 0:  rack (2.0.5) from /Library/Ruby/Gems/2.3.0/specifications/rack-2.0.5.gemspec
+I, [2018-05-31T16:26:17.996536 #23172]  INFO -- : 0:  rack-test (1.0.0) from /Library/Ruby/Gems/2.3.0/specifications/rack-test-1.0.0.gemspec
+I, [2018-05-31T16:26:17.996791 #23172]  INFO -- : 0:  actionpack (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionpack-5.2.0.gemspec
+I, [2018-05-31T16:26:17.997059 #23172]  INFO -- : 0:  nio4r (2.3.1) from /Library/Ruby/Gems/2.3.0/specifications/nio4r-2.3.1.gemspec
+I, [2018-05-31T16:26:17.997305 #23172]  INFO -- : 0:  websocket-extensions (0.1.3) from /Library/Ruby/Gems/2.3.0/specifications/websocket-extensions-0.1.3.gemspec
+I, [2018-05-31T16:26:17.997741 #23172]  INFO -- : 0:  websocket-driver (0.7.0) from /Library/Ruby/Gems/2.3.0/specifications/websocket-driver-0.7.0.gemspec
+I, [2018-05-31T16:26:17.997980 #23172]  INFO -- : 0:  actioncable (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actioncable-5.2.0.gemspec
+I, [2018-05-31T16:26:17.998218 #23172]  INFO -- : 0:  globalid (0.4.1) from /Library/Ruby/Gems/2.3.0/specifications/globalid-0.4.1.gemspec
+I, [2018-05-31T16:26:17.998443 #23172]  INFO -- : 0:  activejob (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activejob-5.2.0.gemspec
+I, [2018-05-31T16:26:17.998663 #23172]  INFO -- : 0:  mini_mime (1.0.0) from /Library/Ruby/Gems/2.3.0/specifications/mini_mime-1.0.0.gemspec
+I, [2018-05-31T16:26:17.998918 #23172]  INFO -- : 0:  mail (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/mail-2.7.0.gemspec
+I, [2018-05-31T16:26:17.999193 #23172]  INFO -- : 0:  actionmailer (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionmailer-5.2.0.gemspec
+I, [2018-05-31T16:26:17.999445 #23172]  INFO -- : 0:  activemodel (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activemodel-5.2.0.gemspec
+I, [2018-05-31T16:26:17.999654 #23172]  INFO -- : 0:  arel (9.0.0) from /Library/Ruby/Gems/2.3.0/specifications/arel-9.0.0.gemspec
+I, [2018-05-31T16:26:17.999910 #23172]  INFO -- : 0:  activerecord (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-5.2.0.gemspec
+I, [2018-05-31T16:26:18.000138 #23172]  INFO -- : 0:  activerecord-oracle_enhanced-adapter (1.4.3) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-oracle_enhanced-adapter-1.4.3.gemspec
+I, [2018-05-31T16:26:18.000441 #23172]  INFO -- : 0:  mimemagic (0.3.2) from /Library/Ruby/Gems/2.3.0/specifications/mimemagic-0.3.2.gemspec
+I, [2018-05-31T16:26:18.000697 #23172]  INFO -- : 0:  marcel (0.3.2) from /Library/Ruby/Gems/2.3.0/specifications/marcel-0.3.2.gemspec
+I, [2018-05-31T16:26:18.000914 #23172]  INFO -- : 0:  activestorage (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activestorage-5.2.0.gemspec
+I, [2018-05-31T16:26:18.001180 #23172]  INFO -- : 0:  bcrypt (3.1.12) from /Library/Ruby/Gems/2.3.0/specifications/bcrypt-3.1.12.gemspec
+I, [2018-05-31T16:26:18.001414 #23172]  INFO -- : 0:  bundler (1.5.1) from /Library/Ruby/Gems/2.3.0/specifications/bundler-1.5.1.gemspec
+I, [2018-05-31T16:26:18.001659 #23172]  INFO -- : 0:  coffee-script-source (1.12.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-source-1.12.2.gemspec
+I, [2018-05-31T16:26:18.001893 #23172]  INFO -- : 0:  execjs (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/execjs-2.7.0.gemspec
+I, [2018-05-31T16:26:18.002130 #23172]  INFO -- : 0:  coffee-script (2.4.1) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-2.4.1.gemspec
+I, [2018-05-31T16:26:18.002336 #23172]  INFO -- : 0:  method_source (0.9.0) from /Library/Ruby/Gems/2.3.0/specifications/method_source-0.9.0.gemspec
+I, [2018-05-31T16:26:18.002565 #23172]  INFO -- : 0:  thor (0.20.0) from /Library/Ruby/Gems/2.3.0/specifications/thor-0.20.0.gemspec
+I, [2018-05-31T16:26:18.002814 #23172]  INFO -- : 0:  railties (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/railties-5.2.0.gemspec
+I, [2018-05-31T16:26:18.003063 #23172]  INFO -- : 0:  coffee-rails (4.2.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-rails-4.2.2.gemspec
+I, [2018-05-31T16:26:18.003314 #23172]  INFO -- : 0:  orm_adapter (0.5.0) from /Library/Ruby/Gems/2.3.0/specifications/orm_adapter-0.5.0.gemspec
+I, [2018-05-31T16:26:18.003523 #23172]  INFO -- : 0:  responders (2.4.0) from /Library/Ruby/Gems/2.3.0/specifications/responders-2.4.0.gemspec
+I, [2018-05-31T16:26:18.003741 #23172]  INFO -- : 0:  warden (1.2.7) from /Library/Ruby/Gems/2.3.0/specifications/warden-1.2.7.gemspec
+I, [2018-05-31T16:26:18.003992 #23172]  INFO -- : 0:  devise (4.4.3) from /Library/Ruby/Gems/2.3.0/specifications/devise-4.4.3.gemspec
+I, [2018-05-31T16:26:18.004223 #23172]  INFO -- : 0:  ffi (1.9.23) from /Library/Ruby/Gems/2.3.0/specifications/ffi-1.9.23.gemspec
+I, [2018-05-31T16:26:18.004474 #23172]  INFO -- : 0:  temple (0.8.0) from /Library/Ruby/Gems/2.3.0/specifications/temple-0.8.0.gemspec
+I, [2018-05-31T16:26:18.004683 #23172]  INFO -- : 0:  tilt (2.0.8) from /Library/Ruby/Gems/2.3.0/specifications/tilt-2.0.8.gemspec
+I, [2018-05-31T16:26:18.004902 #23172]  INFO -- : 0:  haml (5.0.4) from /Library/Ruby/Gems/2.3.0/specifications/haml-5.0.4.gemspec
+I, [2018-05-31T16:26:18.005150 #23172]  INFO -- : 0:  jquery-rails (4.3.3) from /Library/Ruby/Gems/2.3.0/specifications/jquery-rails-4.3.3.gemspec
+E, [2018-05-31T16:26:19.431604 #23172] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    current directory: /Library/Ruby/Gems/2.3.0/gems/pg-1.0.0/ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20180531-23172-11frj3f.rb extconf.rb --with-pg-config=/usr/local/bin/pg_config
+Using config values from /usr/local/bin/pg_config
+checking for libpq-fe.h... yes
+checking for libpq/libpq-fs.h... yes
+checking for pg_config_manual.h... yes
+checking for PQconnectdb() in -lpq... no
+checking for PQconnectdb() in -llibpq... no
+checking for PQconnectdb() in -lms/libpq... no
+Can't find the PostgreSQL client library (libpq)
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/$(RUBY_BASE_NAME)
+	--with-pg
+	--without-pg
+	--enable-windows-cross
+	--disable-windows-cross
+	--with-pg-config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+	--with-pqlib
+	--without-pqlib
+	--with-libpqlib
+	--without-libpqlib
+	--with-ms/libpqlib
+	--without-ms/libpqlib
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /Library/Ruby/Gems/2.3.0/extensions/universal-darwin-17/2.3.0/pg-1.0.0/mkmf.log
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Library/Ruby/Gems/2.3.0/gems/pg-1.0.0 for inspection.
+Results logged to /Library/Ruby/Gems/2.3.0/extensions/universal-darwin-17/2.3.0/pg-1.0.0/gem_make.out
+
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:92:in `run'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:48:in `block in build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/tempfile.rb:295:in `open'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:31:in `build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:164:in `block (2 levels) in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `chdir'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `block in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `synchronize'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:201:in `block in build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:748:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:297:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/usr/local/bin/bundle:22:in `load'  \n/usr/local/bin/bundle:22:in `<main>'
+I, [2018-05-31T16:30:23.813859 #23621]  INFO -- : 0:  rake (12.3.1) from /Library/Ruby/Gems/2.3.0/specifications/rake-12.3.1.gemspec
+I, [2018-05-31T16:30:23.814680 #23621]  INFO -- : 0:  concurrent-ruby (1.0.5) from /Library/Ruby/Gems/2.3.0/specifications/concurrent-ruby-1.0.5.gemspec
+I, [2018-05-31T16:30:23.815056 #23621]  INFO -- : 0:  i18n (1.0.1) from /Library/Ruby/Gems/2.3.0/specifications/i18n-1.0.1.gemspec
+I, [2018-05-31T16:30:23.815773 #23621]  INFO -- : 0:  minitest (5.11.3) from /Library/Ruby/Gems/2.3.0/specifications/minitest-5.11.3.gemspec
+I, [2018-05-31T16:30:23.816270 #23621]  INFO -- : 0:  thread_safe (0.3.6) from /Library/Ruby/Gems/2.3.0/specifications/thread_safe-0.3.6.gemspec
+I, [2018-05-31T16:30:23.816596 #23621]  INFO -- : 0:  tzinfo (1.2.5) from /Library/Ruby/Gems/2.3.0/specifications/tzinfo-1.2.5.gemspec
+I, [2018-05-31T16:30:23.816916 #23621]  INFO -- : 0:  activesupport (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activesupport-5.2.0.gemspec
+I, [2018-05-31T16:30:23.817196 #23621]  INFO -- : 0:  builder (3.2.3) from /Library/Ruby/Gems/2.3.0/specifications/builder-3.2.3.gemspec
+I, [2018-05-31T16:30:23.817504 #23621]  INFO -- : 0:  erubi (1.7.1) from /Library/Ruby/Gems/2.3.0/specifications/erubi-1.7.1.gemspec
+I, [2018-05-31T16:30:23.817814 #23621]  INFO -- : 0:  mini_portile2 (2.3.0) from /Library/Ruby/Gems/2.3.0/specifications/mini_portile2-2.3.0.gemspec
+I, [2018-05-31T16:30:23.818106 #23621]  INFO -- : 0:  nokogiri (1.8.2) from /Library/Ruby/Gems/2.3.0/specifications/nokogiri-1.8.2.gemspec
+I, [2018-05-31T16:30:23.818373 #23621]  INFO -- : 0:  rails-dom-testing (2.0.3) from /Library/Ruby/Gems/2.3.0/specifications/rails-dom-testing-2.0.3.gemspec
+I, [2018-05-31T16:30:23.818657 #23621]  INFO -- : 0:  crass (1.0.4) from /Library/Ruby/Gems/2.3.0/specifications/crass-1.0.4.gemspec
+I, [2018-05-31T16:30:23.818922 #23621]  INFO -- : 0:  loofah (2.2.2) from /Library/Ruby/Gems/2.3.0/specifications/loofah-2.2.2.gemspec
+I, [2018-05-31T16:30:23.819205 #23621]  INFO -- : 0:  rails-html-sanitizer (1.0.4) from /Library/Ruby/Gems/2.3.0/specifications/rails-html-sanitizer-1.0.4.gemspec
+I, [2018-05-31T16:30:23.819477 #23621]  INFO -- : 0:  actionview (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionview-5.2.0.gemspec
+I, [2018-05-31T16:30:23.819778 #23621]  INFO -- : 0:  rack (2.0.5) from /Library/Ruby/Gems/2.3.0/specifications/rack-2.0.5.gemspec
+I, [2018-05-31T16:30:23.820056 #23621]  INFO -- : 0:  rack-test (1.0.0) from /Library/Ruby/Gems/2.3.0/specifications/rack-test-1.0.0.gemspec
+I, [2018-05-31T16:30:23.820361 #23621]  INFO -- : 0:  actionpack (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionpack-5.2.0.gemspec
+I, [2018-05-31T16:30:23.820660 #23621]  INFO -- : 0:  nio4r (2.3.1) from /Library/Ruby/Gems/2.3.0/specifications/nio4r-2.3.1.gemspec
+I, [2018-05-31T16:30:23.820935 #23621]  INFO -- : 0:  websocket-extensions (0.1.3) from /Library/Ruby/Gems/2.3.0/specifications/websocket-extensions-0.1.3.gemspec
+I, [2018-05-31T16:30:23.821194 #23621]  INFO -- : 0:  websocket-driver (0.7.0) from /Library/Ruby/Gems/2.3.0/specifications/websocket-driver-0.7.0.gemspec
+I, [2018-05-31T16:30:23.821488 #23621]  INFO -- : 0:  actioncable (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actioncable-5.2.0.gemspec
+I, [2018-05-31T16:30:23.821708 #23621]  INFO -- : 0:  globalid (0.4.1) from /Library/Ruby/Gems/2.3.0/specifications/globalid-0.4.1.gemspec
+I, [2018-05-31T16:30:23.821974 #23621]  INFO -- : 0:  activejob (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activejob-5.2.0.gemspec
+I, [2018-05-31T16:30:23.822230 #23621]  INFO -- : 0:  mini_mime (1.0.0) from /Library/Ruby/Gems/2.3.0/specifications/mini_mime-1.0.0.gemspec
+I, [2018-05-31T16:30:23.822477 #23621]  INFO -- : 0:  mail (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/mail-2.7.0.gemspec
+I, [2018-05-31T16:30:23.822729 #23621]  INFO -- : 0:  actionmailer (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionmailer-5.2.0.gemspec
+I, [2018-05-31T16:30:23.822946 #23621]  INFO -- : 0:  activemodel (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activemodel-5.2.0.gemspec
+I, [2018-05-31T16:30:23.823167 #23621]  INFO -- : 0:  arel (9.0.0) from /Library/Ruby/Gems/2.3.0/specifications/arel-9.0.0.gemspec
+I, [2018-05-31T16:30:23.823442 #23621]  INFO -- : 0:  activerecord (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-5.2.0.gemspec
+I, [2018-05-31T16:30:23.823798 #23621]  INFO -- : 0:  activerecord-oracle_enhanced-adapter (1.4.3) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-oracle_enhanced-adapter-1.4.3.gemspec
+I, [2018-05-31T16:30:23.824102 #23621]  INFO -- : 0:  mimemagic (0.3.2) from /Library/Ruby/Gems/2.3.0/specifications/mimemagic-0.3.2.gemspec
+I, [2018-05-31T16:30:23.824391 #23621]  INFO -- : 0:  marcel (0.3.2) from /Library/Ruby/Gems/2.3.0/specifications/marcel-0.3.2.gemspec
+I, [2018-05-31T16:30:23.824625 #23621]  INFO -- : 0:  activestorage (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activestorage-5.2.0.gemspec
+I, [2018-05-31T16:30:23.824855 #23621]  INFO -- : 0:  bcrypt (3.1.12) from /Library/Ruby/Gems/2.3.0/specifications/bcrypt-3.1.12.gemspec
+I, [2018-05-31T16:30:23.825072 #23621]  INFO -- : 0:  bundler (1.5.1) from /Library/Ruby/Gems/2.3.0/specifications/bundler-1.5.1.gemspec
+I, [2018-05-31T16:30:23.825312 #23621]  INFO -- : 0:  coffee-script-source (1.12.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-source-1.12.2.gemspec
+I, [2018-05-31T16:30:23.825539 #23621]  INFO -- : 0:  execjs (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/execjs-2.7.0.gemspec
+I, [2018-05-31T16:30:23.825795 #23621]  INFO -- : 0:  coffee-script (2.4.1) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-2.4.1.gemspec
+I, [2018-05-31T16:30:23.826034 #23621]  INFO -- : 0:  method_source (0.9.0) from /Library/Ruby/Gems/2.3.0/specifications/method_source-0.9.0.gemspec
+I, [2018-05-31T16:30:23.826283 #23621]  INFO -- : 0:  thor (0.20.0) from /Library/Ruby/Gems/2.3.0/specifications/thor-0.20.0.gemspec
+I, [2018-05-31T16:30:23.826541 #23621]  INFO -- : 0:  railties (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/railties-5.2.0.gemspec
+I, [2018-05-31T16:30:23.826786 #23621]  INFO -- : 0:  coffee-rails (4.2.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-rails-4.2.2.gemspec
+I, [2018-05-31T16:30:23.827063 #23621]  INFO -- : 0:  orm_adapter (0.5.0) from /Library/Ruby/Gems/2.3.0/specifications/orm_adapter-0.5.0.gemspec
+I, [2018-05-31T16:30:23.827385 #23621]  INFO -- : 0:  responders (2.4.0) from /Library/Ruby/Gems/2.3.0/specifications/responders-2.4.0.gemspec
+I, [2018-05-31T16:30:23.827663 #23621]  INFO -- : 0:  warden (1.2.7) from /Library/Ruby/Gems/2.3.0/specifications/warden-1.2.7.gemspec
+I, [2018-05-31T16:30:23.827983 #23621]  INFO -- : 0:  devise (4.4.3) from /Library/Ruby/Gems/2.3.0/specifications/devise-4.4.3.gemspec
+I, [2018-05-31T16:30:23.828292 #23621]  INFO -- : 0:  ffi (1.9.23) from /Library/Ruby/Gems/2.3.0/specifications/ffi-1.9.23.gemspec
+I, [2018-05-31T16:30:23.828622 #23621]  INFO -- : 0:  temple (0.8.0) from /Library/Ruby/Gems/2.3.0/specifications/temple-0.8.0.gemspec
+I, [2018-05-31T16:30:23.828939 #23621]  INFO -- : 0:  tilt (2.0.8) from /Library/Ruby/Gems/2.3.0/specifications/tilt-2.0.8.gemspec
+I, [2018-05-31T16:30:23.829265 #23621]  INFO -- : 0:  haml (5.0.4) from /Library/Ruby/Gems/2.3.0/specifications/haml-5.0.4.gemspec
+I, [2018-05-31T16:30:23.829610 #23621]  INFO -- : 0:  jquery-rails (4.3.3) from /Library/Ruby/Gems/2.3.0/specifications/jquery-rails-4.3.3.gemspec
+I, [2018-05-31T16:30:23.830324 #23621]  INFO -- : 0:  pg (1.0.0) from /Library/Ruby/Gems/2.3.0/specifications/pg-1.0.0.gemspec
+I, [2018-05-31T16:30:23.961546 #23621]  INFO -- : 0:  sprockets (3.7.1) from /Library/Ruby/Gems/2.3.0/specifications/sprockets-3.7.1.gemspec
+I, [2018-05-31T16:30:24.062204 #23621]  INFO -- : 0:  sprockets-rails (3.2.1) from /Library/Ruby/Gems/2.3.0/specifications/sprockets-rails-3.2.1.gemspec
+I, [2018-05-31T16:30:24.146135 #23621]  INFO -- : 0:  rails (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/rails-5.2.0.gemspec
+I, [2018-05-31T16:30:24.277134 #23621]  INFO -- : 0:  rb-fsevent (0.10.3) from /Library/Ruby/Gems/2.3.0/specifications/rb-fsevent-0.10.3.gemspec
+I, [2018-05-31T16:30:24.377797 #23621]  INFO -- : 0:  rb-inotify (0.9.10) from /Library/Ruby/Gems/2.3.0/specifications/rb-inotify-0.9.10.gemspec
+E, [2018-05-31T16:30:24.690033 #23621] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    current directory: /Library/Ruby/Gems/2.3.0/gems/ruby-oci8-2.2.5.1/ext/oci8
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20180531-23621-wa8yuw.rb extconf.rb 
+checking for load library path... 
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/$(RUBY_BASE_NAME)
+	--with-instant-client
+	--without-instant-client
+/Library/Ruby/Gems/2.3.0/gems/ruby-oci8-2.2.5.1/ext/oci8/oraconf.rb:524:in `check_ic_dir': RuntimeError (RuntimeError)
+	from /Library/Ruby/Gems/2.3.0/gems/ruby-oci8-2.2.5.1/ext/oci8/oraconf.rb:265:in `get'
+	from extconf.rb:22:in `<main>'
+  DYLD_LIBRARY_PATH is not set.
+  DYLD_FALLBACK_LIBRARY_PATH is not set.
+  checking OCI_DIR...
+  checking the default value of DYLD_FALLBACK_LIBRARY_PATH...
+    checking /Users/taavi/lib... no
+    checking /usr/local/lib... no
+    checking /lib... no
+    checking /usr/lib... no
+---------------------------------------------------
+Error Message:
+  Set the environment variable DYLD_LIBRARY_PATH, DYLD_FALLBACK_LIBRARY_PATH or
+  OCI_DIR to point to the Instant client directory.
+  
+  If DYLD_LIBRARY_PATH or DYLD_FALLBACK_LIBRARY_PATH is set, the environment
+  variable must be set at runtime also.
+  
+  If OCI_DIR is set, dependent shared library paths are checked. If the checking
+  is passed, ruby-oci8 works without DYLD_LIBRARY_PATH or DYLD_FALLBACK_LIBRARY_PATH.
+  
+  Note: OCI_DIR should be absolute path.
+  Note: DYLD_* environment variables are unavailable for security reasons on OS X 10.11 El Capitan.
+  
+Backtrace:
+  /Library/Ruby/Gems/2.3.0/gems/ruby-oci8-2.2.5.1/ext/oci8/oraconf.rb:524:in `check_ic_dir'
+  /Library/Ruby/Gems/2.3.0/gems/ruby-oci8-2.2.5.1/ext/oci8/oraconf.rb:265:in `get'
+  extconf.rb:22:in `<main>'
+---------------------------------------------------
+See:
+ * http://www.rubydoc.info/github/kubo/ruby-oci8/file/docs/install-full-client.md for Oracle full client
+ * http://www.rubydoc.info/github/kubo/ruby-oci8/file/docs/install-instant-client.md for Oracle instant client
+ * http://www.rubydoc.info/github/kubo/ruby-oci8/file/docs/install-on-osx.md for OS X
+ * http://www.rubydoc.info/github/kubo/ruby-oci8/file/docs/report-installation-issue.md to report an issue.
+
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Library/Ruby/Gems/2.3.0/gems/ruby-oci8-2.2.5.1 for inspection.
+Results logged to /Library/Ruby/Gems/2.3.0/extensions/universal-darwin-17/2.3.0/ruby-oci8-2.2.5.1/gem_make.out
+
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:92:in `run'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:48:in `block in build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/tempfile.rb:295:in `open'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/ext_conf_builder.rb:31:in `build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:164:in `block (2 levels) in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `chdir'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:163:in `block in build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `synchronize'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:162:in `build_extension'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:201:in `block in build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/ext/builder.rb:198:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:748:in `build_extensions'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/rubygems/installer.rb:297:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/forwardable.rb:189:in `each'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Library/Ruby/Gems/2.3.0/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/usr/local/bin/bundle:22:in `load'  \n/usr/local/bin/bundle:22:in `<main>'
+I, [2018-05-31T16:31:33.740989 #23693]  INFO -- : 0:  rake (12.3.1) from /Library/Ruby/Gems/2.3.0/specifications/rake-12.3.1.gemspec
+I, [2018-05-31T16:31:33.741281 #23693]  INFO -- : 0:  concurrent-ruby (1.0.5) from /Library/Ruby/Gems/2.3.0/specifications/concurrent-ruby-1.0.5.gemspec
+I, [2018-05-31T16:31:33.741563 #23693]  INFO -- : 0:  i18n (1.0.1) from /Library/Ruby/Gems/2.3.0/specifications/i18n-1.0.1.gemspec
+I, [2018-05-31T16:31:33.741806 #23693]  INFO -- : 0:  minitest (5.11.3) from /Library/Ruby/Gems/2.3.0/specifications/minitest-5.11.3.gemspec
+I, [2018-05-31T16:31:33.742047 #23693]  INFO -- : 0:  thread_safe (0.3.6) from /Library/Ruby/Gems/2.3.0/specifications/thread_safe-0.3.6.gemspec
+I, [2018-05-31T16:31:33.742303 #23693]  INFO -- : 0:  tzinfo (1.2.5) from /Library/Ruby/Gems/2.3.0/specifications/tzinfo-1.2.5.gemspec
+I, [2018-05-31T16:31:33.742575 #23693]  INFO -- : 0:  activesupport (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activesupport-5.2.0.gemspec
+I, [2018-05-31T16:31:33.742792 #23693]  INFO -- : 0:  builder (3.2.3) from /Library/Ruby/Gems/2.3.0/specifications/builder-3.2.3.gemspec
+I, [2018-05-31T16:31:33.743037 #23693]  INFO -- : 0:  erubi (1.7.1) from /Library/Ruby/Gems/2.3.0/specifications/erubi-1.7.1.gemspec
+I, [2018-05-31T16:31:33.743301 #23693]  INFO -- : 0:  mini_portile2 (2.3.0) from /Library/Ruby/Gems/2.3.0/specifications/mini_portile2-2.3.0.gemspec
+I, [2018-05-31T16:31:33.743519 #23693]  INFO -- : 0:  nokogiri (1.8.2) from /Library/Ruby/Gems/2.3.0/specifications/nokogiri-1.8.2.gemspec
+I, [2018-05-31T16:31:33.743766 #23693]  INFO -- : 0:  rails-dom-testing (2.0.3) from /Library/Ruby/Gems/2.3.0/specifications/rails-dom-testing-2.0.3.gemspec
+I, [2018-05-31T16:31:33.744011 #23693]  INFO -- : 0:  crass (1.0.4) from /Library/Ruby/Gems/2.3.0/specifications/crass-1.0.4.gemspec
+I, [2018-05-31T16:31:33.744235 #23693]  INFO -- : 0:  loofah (2.2.2) from /Library/Ruby/Gems/2.3.0/specifications/loofah-2.2.2.gemspec
+I, [2018-05-31T16:31:33.744520 #23693]  INFO -- : 0:  rails-html-sanitizer (1.0.4) from /Library/Ruby/Gems/2.3.0/specifications/rails-html-sanitizer-1.0.4.gemspec
+I, [2018-05-31T16:31:33.744751 #23693]  INFO -- : 0:  actionview (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionview-5.2.0.gemspec
+I, [2018-05-31T16:31:33.745018 #23693]  INFO -- : 0:  rack (2.0.5) from /Library/Ruby/Gems/2.3.0/specifications/rack-2.0.5.gemspec
+I, [2018-05-31T16:31:33.745239 #23693]  INFO -- : 0:  rack-test (1.0.0) from /Library/Ruby/Gems/2.3.0/specifications/rack-test-1.0.0.gemspec
+I, [2018-05-31T16:31:33.745483 #23693]  INFO -- : 0:  actionpack (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionpack-5.2.0.gemspec
+I, [2018-05-31T16:31:33.745724 #23693]  INFO -- : 0:  nio4r (2.3.1) from /Library/Ruby/Gems/2.3.0/specifications/nio4r-2.3.1.gemspec
+I, [2018-05-31T16:31:33.745957 #23693]  INFO -- : 0:  websocket-extensions (0.1.3) from /Library/Ruby/Gems/2.3.0/specifications/websocket-extensions-0.1.3.gemspec
+I, [2018-05-31T16:31:33.746182 #23693]  INFO -- : 0:  websocket-driver (0.7.0) from /Library/Ruby/Gems/2.3.0/specifications/websocket-driver-0.7.0.gemspec
+I, [2018-05-31T16:31:33.746438 #23693]  INFO -- : 0:  actioncable (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actioncable-5.2.0.gemspec
+I, [2018-05-31T16:31:33.746655 #23693]  INFO -- : 0:  globalid (0.4.1) from /Library/Ruby/Gems/2.3.0/specifications/globalid-0.4.1.gemspec
+I, [2018-05-31T16:31:33.746891 #23693]  INFO -- : 0:  activejob (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activejob-5.2.0.gemspec
+I, [2018-05-31T16:31:33.747132 #23693]  INFO -- : 0:  mini_mime (1.0.0) from /Library/Ruby/Gems/2.3.0/specifications/mini_mime-1.0.0.gemspec
+I, [2018-05-31T16:31:33.747405 #23693]  INFO -- : 0:  mail (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/mail-2.7.0.gemspec
+I, [2018-05-31T16:31:33.747637 #23693]  INFO -- : 0:  actionmailer (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/actionmailer-5.2.0.gemspec
+I, [2018-05-31T16:31:33.747870 #23693]  INFO -- : 0:  activemodel (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activemodel-5.2.0.gemspec
+I, [2018-05-31T16:31:33.748129 #23693]  INFO -- : 0:  arel (9.0.0) from /Library/Ruby/Gems/2.3.0/specifications/arel-9.0.0.gemspec
+I, [2018-05-31T16:31:33.748372 #23693]  INFO -- : 0:  activerecord (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-5.2.0.gemspec
+I, [2018-05-31T16:31:33.748626 #23693]  INFO -- : 0:  activerecord-oracle_enhanced-adapter (1.4.3) from /Library/Ruby/Gems/2.3.0/specifications/activerecord-oracle_enhanced-adapter-1.4.3.gemspec
+I, [2018-05-31T16:31:33.748876 #23693]  INFO -- : 0:  mimemagic (0.3.2) from /Library/Ruby/Gems/2.3.0/specifications/mimemagic-0.3.2.gemspec
+I, [2018-05-31T16:31:33.749134 #23693]  INFO -- : 0:  marcel (0.3.2) from /Library/Ruby/Gems/2.3.0/specifications/marcel-0.3.2.gemspec
+I, [2018-05-31T16:31:33.749392 #23693]  INFO -- : 0:  activestorage (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/activestorage-5.2.0.gemspec
+I, [2018-05-31T16:31:33.749660 #23693]  INFO -- : 0:  bcrypt (3.1.12) from /Library/Ruby/Gems/2.3.0/specifications/bcrypt-3.1.12.gemspec
+I, [2018-05-31T16:31:33.749850 #23693]  INFO -- : 0:  bundler (1.5.1) from /Library/Ruby/Gems/2.3.0/specifications/bundler-1.5.1.gemspec
+I, [2018-05-31T16:31:33.750083 #23693]  INFO -- : 0:  coffee-script-source (1.12.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-source-1.12.2.gemspec
+I, [2018-05-31T16:31:33.750335 #23693]  INFO -- : 0:  execjs (2.7.0) from /Library/Ruby/Gems/2.3.0/specifications/execjs-2.7.0.gemspec
+I, [2018-05-31T16:31:33.750545 #23693]  INFO -- : 0:  coffee-script (2.4.1) from /Library/Ruby/Gems/2.3.0/specifications/coffee-script-2.4.1.gemspec
+I, [2018-05-31T16:31:33.750781 #23693]  INFO -- : 0:  method_source (0.9.0) from /Library/Ruby/Gems/2.3.0/specifications/method_source-0.9.0.gemspec
+I, [2018-05-31T16:31:33.751037 #23693]  INFO -- : 0:  thor (0.20.0) from /Library/Ruby/Gems/2.3.0/specifications/thor-0.20.0.gemspec
+I, [2018-05-31T16:31:33.751292 #23693]  INFO -- : 0:  railties (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/railties-5.2.0.gemspec
+I, [2018-05-31T16:31:33.751534 #23693]  INFO -- : 0:  coffee-rails (4.2.2) from /Library/Ruby/Gems/2.3.0/specifications/coffee-rails-4.2.2.gemspec
+I, [2018-05-31T16:31:33.751759 #23693]  INFO -- : 0:  orm_adapter (0.5.0) from /Library/Ruby/Gems/2.3.0/specifications/orm_adapter-0.5.0.gemspec
+I, [2018-05-31T16:31:33.751985 #23693]  INFO -- : 0:  responders (2.4.0) from /Library/Ruby/Gems/2.3.0/specifications/responders-2.4.0.gemspec
+I, [2018-05-31T16:31:33.752233 #23693]  INFO -- : 0:  warden (1.2.7) from /Library/Ruby/Gems/2.3.0/specifications/warden-1.2.7.gemspec
+I, [2018-05-31T16:31:33.752473 #23693]  INFO -- : 0:  devise (4.4.3) from /Library/Ruby/Gems/2.3.0/specifications/devise-4.4.3.gemspec
+I, [2018-05-31T16:31:33.752706 #23693]  INFO -- : 0:  ffi (1.9.23) from /Library/Ruby/Gems/2.3.0/specifications/ffi-1.9.23.gemspec
+I, [2018-05-31T16:31:33.752930 #23693]  INFO -- : 0:  temple (0.8.0) from /Library/Ruby/Gems/2.3.0/specifications/temple-0.8.0.gemspec
+I, [2018-05-31T16:31:33.753154 #23693]  INFO -- : 0:  tilt (2.0.8) from /Library/Ruby/Gems/2.3.0/specifications/tilt-2.0.8.gemspec
+I, [2018-05-31T16:31:33.753397 #23693]  INFO -- : 0:  haml (5.0.4) from /Library/Ruby/Gems/2.3.0/specifications/haml-5.0.4.gemspec
+I, [2018-05-31T16:31:33.753647 #23693]  INFO -- : 0:  jquery-rails (4.3.3) from /Library/Ruby/Gems/2.3.0/specifications/jquery-rails-4.3.3.gemspec
+I, [2018-05-31T16:31:33.753884 #23693]  INFO -- : 0:  pg (1.0.0) from /Library/Ruby/Gems/2.3.0/specifications/pg-1.0.0.gemspec
+I, [2018-05-31T16:31:33.754147 #23693]  INFO -- : 0:  sprockets (3.7.1) from /Library/Ruby/Gems/2.3.0/specifications/sprockets-3.7.1.gemspec
+I, [2018-05-31T16:31:33.754374 #23693]  INFO -- : 0:  sprockets-rails (3.2.1) from /Library/Ruby/Gems/2.3.0/specifications/sprockets-rails-3.2.1.gemspec
+I, [2018-05-31T16:31:33.754631 #23693]  INFO -- : 0:  rails (5.2.0) from /Library/Ruby/Gems/2.3.0/specifications/rails-5.2.0.gemspec
+I, [2018-05-31T16:31:33.754844 #23693]  INFO -- : 0:  rb-fsevent (0.10.3) from /Library/Ruby/Gems/2.3.0/specifications/rb-fsevent-0.10.3.gemspec
+I, [2018-05-31T16:31:33.755075 #23693]  INFO -- : 0:  rb-inotify (0.9.10) from /Library/Ruby/Gems/2.3.0/specifications/rb-inotify-0.9.10.gemspec
+I, [2018-05-31T16:31:33.858822 #23693]  INFO -- : 0:  sass-listen (4.0.0) from /Library/Ruby/Gems/2.3.0/specifications/sass-listen-4.0.0.gemspec
+I, [2018-05-31T16:31:34.131708 #23693]  INFO -- : 0:  sass (3.5.6) from /Library/Ruby/Gems/2.3.0/specifications/sass-3.5.6.gemspec
+I, [2018-05-31T16:31:34.237217 #23693]  INFO -- : 0:  sass-rails (5.0.7) from /Library/Ruby/Gems/2.3.0/specifications/sass-rails-5.0.7.gemspec
+I, [2018-05-31T16:31:34.403585 #23693]  INFO -- : 0:  uglifier (4.1.10) from /Library/Ruby/Gems/2.3.0/specifications/uglifier-4.1.10.gemspec
