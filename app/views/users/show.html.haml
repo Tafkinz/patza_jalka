@@ -1,0 +1,26 @@
+%h2 Kasutaja #{@user.name} jalkaennustuse leht
+%br
+%h3 Vali ennustuse osa:
+%br
+= link_to 'Ennusta alagrupimängude tulemused', tournament_user_games_path(@tournament_id, @user.id)
+%br
+%br
+= link_to 'Ennusta alagruppide kolmandad kohad', group_teams_path(@tournament_id, @user.id)
+%br
+%br
+- if @tournament.mm || @tournament.em2016
+  = link_to 'Ennusta kaheksandikfinaalide võitjad', round_of_16_teams_path(@tournament_id, @user.id)
+  %br
+  %br
+= link_to 'Ennusta veerandfinaalide võitjad', quarterfinals_teams_path(@tournament_id, @user.id)
+%br
+%br
+= link_to 'Ennusta neli parimat', finals_teams_path(@tournament_id, @user.id)
+%br
+%br
+= link_to 'Lisaküsimused', tournament_user_user_questions_path(@tournament_id, @user.id)
+%br
+%br
+%br
+= button_to 'Kasutajate nimekirja', tournament_users_path(@tournament_id), :method => :get
+/= button_to 'Kustuta kasutaja', tournament_user_path(@tournament_id, @user.id), :method => :delete, :confirm => 'Kas oled kindel et soovid kasutaja kustutada?'

@@ -1,0 +1,32 @@
+%h2 Ennusta turniiri neli parimat meeskonda
+
+= form_tag finals_teams_path(@tournament_id, @user.id), :method => :post do
+  Võitja: 
+  =select :result, 'F1', @teams.collect{|p| [p.name, p.id]}, 
+    {:selected => "#{@userTeamF1 == nil ? nil : @userTeamF1.team_id}", :prompt => '- vali -'}
+  %br
+  %br
+  Teine koht: 
+  =select :result, 'F2', @teams.collect{|p| [p.name, p.id]}, 
+    {:selected => "#{@userTeamF2 == nil ? nil : @userTeamF2.team_id}", :prompt => '- vali -'}
+  %br
+  %br
+  Kolmas koht: 
+  =select :result, 'F3', @teams.collect{|p| [p.name, p.id]}, 
+    {:selected => "#{@userTeamF3 == nil ? nil : @userTeamF3.team_id}", :prompt => '- vali -'}
+  %br
+  %br
+  Neljas koht: 
+  =select :result, 'F4', @teams.collect{|p| [p.name, p.id]}, 
+    {:selected => "#{@userTeamF4 == nil ? nil : @userTeamF4.team_id}", :prompt => '- vali -'}
+  %br
+  %br
+  * Esimese ja teise koha Õiged vastused annavad vastavalt 50 ja 30 punkti. Kui ennustad esinelikus võistkonna õigesti, aga koht on vale (või ei mängita kohta välja), siis saad 15 punkti.
+  %br
+  %br
+  = hidden_field_tag "user_id", @user.id
+  = hidden_field_tag "tournament_id", @tournament_id
+  -#- if @user.name == 'tegelikud tulemused'
+  -#  = submit_tag 'Salvesta'
+  = submit_tag 'Salvesta', :class => 'form_btn'
+= button_to 'Tagasi', tournament_user_path(@tournament_id, @user.id), :method => :get, :class => 'form_btn'
