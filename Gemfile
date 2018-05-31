@@ -11,7 +11,7 @@ group :test do
   ##gem 'ruby-oci8'
 end
 group :development, :production do
-  gem 'pg' # use PostgreSQL in production (Heroku)
+  gem 'pg', '~> 0.21' # use PostgreSQL in production (Heroku)
 end
 
 # use Haml for templates
