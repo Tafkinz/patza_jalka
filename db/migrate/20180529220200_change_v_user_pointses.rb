@@ -1,4 +1,4 @@
-class ChangeVUserPoints < ActiveRecord::Migration
+class ChangeVUserPointses < ActiveRecord::Migration
   def up
     execute <<-SQL
       CREATE OR REPLACE VIEW V_USER_POINTS AS
